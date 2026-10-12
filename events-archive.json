@@ -1,0 +1,81 @@
+{
+ "events": [
+  {
+   "venue": "Eddie's Attic",
+   "title": "Palmyra w/ Liv Greene",
+   "date": "2026-10-11",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/palmyra-w-liv-greene-decatur-georgia-10-11-2026/event/0E00650CE5670EA5",
+   "type": "concert"
+  },
+  {
+   "venue": "Ameris Bank Amphitheatre",
+   "title": "Symphony at Sunset: Halloween Spooktacular with the ASO",
+   "date": "2026-10-11",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/symphony-at-sunset-halloween-spooktacular-with-alpharetta-georgia-10-11-2026/event/0E0064F6A725A306",
+   "type": "arts"
+  },
+  {
+   "venue": "Atlanta Symphony Hall",
+   "title": "Vitamin String Quartet & Girl Named Tom: The Crazy Ordinary World Tour",
+   "date": "2026-10-11",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/vitamin-string-quartet-girl-named-tom-atlanta-georgia-10-11-2026/event/0E0064AFA0A0C93F",
+   "type": "concert"
+  },
+  {
+   "venue": "Tabernacle",
+   "title": "JOHNNYSWIM - Greetings from Georgica Pond",
+   "date": "2026-10-11",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/johnnyswim-greetings-from-georgica-pond-atlanta-georgia-10-11-2026/event/0E006494A0238B8A",
+   "type": "concert"
+  },
+  {
+   "venue": "Center Stage",
+   "title": "Deltron 3030",
+   "date": "2026-10-11",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/deltron-3030-atlanta-georgia-10-11-2026/event/0E0064C58E8779B7",
+   "type": "concert"
+  },
+  {
+   "venue": "The Loft",
+   "title": "Silvana Estrada",
+   "date": "2026-10-11",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/silvana-estrada-atlanta-georgia-10-11-2026/event/0E0064F0A92CA36A",
+   "type": "concert"
+  },
+  {
+   "venue": "Vinyl",
+   "title": "Quinn Sullivan",
+   "date": "2026-10-11",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/quinn-sullivan-atlanta-georgia-10-11-2026/event/0E006505DEC2B9B1",
+   "type": "concert"
+  },
+  {
+   "venue": "Lakewood Amphitheatre",
+   "title": "Fuerza Regida - This Is Our Dream Tour 2026",
+   "date": "2026-10-11",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/fuerza-regida-this-is-our-dream-atlanta-georgia-10-11-2026/event/0E0065049CED6CAD",
+   "type": "concert"
+  },
+  {
+   "venue": "Mercedes-Benz Stadium",
+   "title": "Atlanta Falcons v Baltimore Ravens",
+   "date": "2026-10-11",
+   "time": "20:20:00",
+   "url": "https://www.ticketmaster.com/atlanta-falcons-v-baltimore-ravens-atlanta-georgia-10-11-2026/event/0E00647F8E096D28",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "NBC"
+    ]
+   }
+  }
+ ]
+}
