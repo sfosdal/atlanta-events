@@ -1,0 +1,9 @@
+{
+  "_": "Off-season blurbs for the Teams view's form block (app.js renderTeamForm): shown before a season starts and once one is well over. Plain text, one per team slug. Edit freely — nothing generates this file.",
+  "hawks": "The Hawks' season runs late October to April at State Farm Arena, 41 home dates, with the play-in and the playoffs beyond that.",
+  "falcons": "The Falcons' season runs September to January at Mercedes-Benz Stadium, with the playoffs beyond that; flex-week kickoffs fill in above as the league confirms them.",
+  "braves": "Spring training opens in North Port in February and the regular season in late March at Truist Park; the schedule above fills in once MLB publishes it.",
+  "united": "Atlanta United's MLS season runs late February to October at Mercedes-Benz Stadium, 17 home matches, with the Cup playoffs through early December.",
+  "dream": "The Dream's WNBA season runs May to September at Gateway Center Arena in College Park, with the playoffs beyond that; the schedule arrives over the winter.",
+  "yellowjackets": "Georgia Tech's football season runs late August to November at Bobby Dodd Stadium, with the ACC Championship and the College Football Playoff beyond that."
+}

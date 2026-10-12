@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="6" fill="#1b2733"/>
+  <!-- a peach: the fruit with its crease, a leaf at the stem -->
+  <circle cx="16" cy="18.5" r="9.2" fill="#f4915e"/>
+  <path d="M15.2 9.6 C12.4 13.5 12.6 22 15.6 27.4" fill="none" stroke="#d2643a" stroke-width="1.5" stroke-linecap="round"/>
+  <path d="M16.6 9.8 C17.4 5.6 21.6 4.4 24.4 6.6 C22.2 9.6 19 10.3 16.6 9.8 Z" fill="#5fae60"/>
+</svg>
