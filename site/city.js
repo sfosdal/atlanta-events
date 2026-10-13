@@ -415,6 +415,7 @@
     site: 'https://atlanta.here.events/',
     userAgent: 'Mozilla/5.0 (compatible; atlanta-events/1.0; +https://atlanta.here.events/)',
     tz: 'America/New_York', tzName: 'Eastern', // the city's time zone: the ICS feed's TZID, the game clocks, the poster's footer
+    state: "Georgia", stateOutline: 'M5.6 19.3L5.3 18.0L5.4 16.5L5.1 15.9L5.4 14.7L5.5 14.3L5.9 13.9L5.7 13.6L5.7 13.2L5.0 11.5L4.9 10.8L4.7 9.7L4.5 8.6L4.3 7.5L4.1 6.4L3.9 5.3L3.7 4.2L3.5 3.1L3.3 2.0L5.7 2.0L8.1 2.1L10.3 2.0L12.5 2.0L12.3 2.3L11.6 3.3L12.3 3.7L13.0 4.3L13.5 4.4L13.6 4.7L14.4 6.2L15.6 7.4L16.5 8.4L16.8 9.0L17.1 9.2L17.4 9.8L18.1 10.3L18.6 11.8L19.1 12.6L19.7 13.8L19.9 14.5L20.5 15.2L19.9 15.4L19.9 15.7L20.0 15.9L19.6 16.1L19.5 16.4L19.6 16.6L19.3 17.0L19.5 17.0L19.4 17.2L19.1 17.7L18.8 17.8L19.2 18.1L18.7 18.5L18.5 18.7L18.5 19.2L18.3 19.8L18.4 20.4L17.0 20.1L16.7 20.1L16.5 20.2L16.4 20.8L16.4 21.5L16.1 22.0L15.8 21.9L15.8 21.5L15.7 21.2L14.5 21.1L13.4 21.0L12.2 20.9L11.0 20.8L9.9 20.8L8.7 20.7L7.5 20.6L6.4 20.5L6.0 20.3L5.6 19.3Z', // the masthead's small state, linking to here.events (scripts/state-outline.mjs, Natural Earth 1:50m)
     // the calendar feed's header; the UID domain never changes (changing it
     // re-creates every event in subscribers' calendars)
     ics: { name: 'Atlanta Events', short: 'Atlanta Events', teams: 'Atlanta home teams — every season', prodid: '-//here.events//atlanta-events//EN', uidDomain: 'fosdal.net', // the UID domain the whole family issues (the shared ics test pins it)
