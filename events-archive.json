@@ -76,6 +76,61 @@
      "NBC"
     ]
    }
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Igorrr: North American Tour 2026",
+   "date": "2026-10-12",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/igorrr-north-american-tour-2026-atlanta-georgia-10-12-2026/event/0E0064B3E3E750C5",
+   "type": "concert"
+  },
+  {
+   "venue": "State Farm Arena",
+   "title": "Preseason - Atlanta Hawks v Oklahoma City Thunder",
+   "date": "2026-10-12",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/preseason-atlanta-hawks-v-oklahoma-city-atlanta-georgia-10-12-2026/event/0E0064D6B2198C90",
+   "type": "sports"
+  },
+  {
+   "venue": "Atlanta Symphony Hall",
+   "title": "Malcolm Gladwell In Conversation",
+   "date": "2026-10-12",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/malcolm-gladwell-in-conversation-atlanta-georgia-10-12-2026/event/0E0064F0B399B7BE"
+  },
+  {
+   "venue": "Coca-Cola Roxy",
+   "title": "Freya Skye - Stars Align Tour",
+   "date": "2026-10-12",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/freya-skye-stars-align-tour-atlanta-georgia-10-12-2026/event/0E00644AC5BD9CAA",
+   "type": "concert"
+  },
+  {
+   "venue": "Buckhead Theatre",
+   "title": "Ryan Beatty - Arms Over Armor North American Tour '26",
+   "date": "2026-10-12",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/ryan-beatty-arms-over-armor-north-atlanta-georgia-10-12-2026/event/0E0064C9E7BB76A1",
+   "type": "concert"
+  },
+  {
+   "venue": "Variety Playhouse",
+   "title": "Black Country, New Road",
+   "date": "2026-10-12",
+   "time": "20:00:00",
+   "url": "http://www.variety-playhouse.com",
+   "type": "concert"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Elias",
+   "date": "2026-10-12",
+   "time": "21:15:00",
+   "url": "https://www.ticketmaster.com/elias-decatur-georgia-10-12-2026/event/0E00651CCE8E71A2",
+   "type": "concert"
   }
  ]
 }
