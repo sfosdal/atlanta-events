@@ -131,6 +131,78 @@
    "time": "21:15:00",
    "url": "https://www.ticketmaster.com/elias-decatur-georgia-10-12-2026/event/0E00651CCE8E71A2",
    "type": "concert"
+  },
+  {
+   "venue": "Ameris Bank Amphitheatre",
+   "title": "Five Finger Death Punch",
+   "date": "2026-10-13",
+   "time": "18:45:00",
+   "url": "https://www.ticketmaster.com/five-finger-death-punch-alpharetta-georgia-10-13-2026/event/0E0064268F4E3843",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Laundry Day Presents: The Larger Than Life Tour",
+   "date": "2026-10-13",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/laundry-day-presents-the-larger-than-atlanta-georgia-10-13-2026/event/0E0064AFD7478DAE",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "she's green",
+   "date": "2026-10-13",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/shes-green-atlanta-georgia-10-13-2026/event/0E0064EDB38E9DA7",
+   "type": "concert"
+  },
+  {
+   "venue": "The Eastern",
+   "title": "Rodrigo y Gabriela",
+   "date": "2026-10-13",
+   "time": "20:00:00",
+   "url": "https://easternatl.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Buckhead Theatre",
+   "title": "Chelsea Wolfe: The Dark World Tour",
+   "date": "2026-10-13",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/chelsea-wolfe-the-dark-world-tour-atlanta-georgia-10-13-2026/event/0E0064D2D3E9D8F2",
+   "type": "concert"
+  },
+  {
+   "venue": "Center Stage",
+   "title": "Hurricane Wisdom: Weathering The World",
+   "date": "2026-10-13",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/hurricane-wisdom-weathering-the-world-atlanta-georgia-10-13-2026/event/0E00650EA6C1BBE1",
+   "type": "concert"
+  },
+  {
+   "venue": "The Loft",
+   "title": "Olivia O'Brien",
+   "date": "2026-10-13",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/olivia-obrien-atlanta-georgia-10-13-2026/event/0E006507C081990F",
+   "type": "concert"
+  },
+  {
+   "venue": "Vinyl",
+   "title": "Elizabeth Nichols",
+   "date": "2026-10-13",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/elizabeth-nichols-atlanta-georgia-10-13-2026/event/0E0064CBDA6254FE",
+   "type": "concert"
+  },
+  {
+   "venue": "Aisle 5",
+   "title": "Cardinal Bloom",
+   "date": "2026-10-13",
+   "time": "20:00:00",
+   "url": "https://eventim.us/a5cardinalbloom2026",
+   "type": "concert"
   }
  ]
 }
