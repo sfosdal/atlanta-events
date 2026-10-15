@@ -203,6 +203,105 @@
    "time": "20:00:00",
    "url": "https://eventim.us/a5cardinalbloom2026",
    "type": "concert"
+  },
+  {
+   "venue": "State Farm Arena",
+   "title": "WNBA Semifinals: New York Liberty at Atlanta Dream Game 5 (If Needed)",
+   "date": "2026-10-14",
+   "time": "",
+   "url": "https://www.ticketmaster.com/wnba-semifinals-new-york-liberty-at-atlanta-georgia-10-14-2026/event/0E006514A46BB0A7",
+   "type": "sports",
+   "status": "cancelled",
+   "statusSince": "2026-10-12T01:47:18.491Z"
+  },
+  {
+   "venue": "Truist Park",
+   "title": "Atlanta Braves NLCS Home Game 1",
+   "date": "2026-10-14",
+   "time": "",
+   "url": "https://www.ticketmaster.com/atlanta-braves-nlcs-home-game-1-atlanta-georgia-10-14-2026/event/0E006512BC9FB5E7",
+   "type": "sports",
+   "status": "cancelled",
+   "statusSince": "2026-10-12T01:47:18.491Z"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Basement",
+   "date": "2026-10-14",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/basement-atlanta-georgia-10-14-2026/event/0E0064A6FC12F7CF",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Plini - An Unnameable Desire North American Tour",
+   "date": "2026-10-14",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/plini-an-unnameable-desire-north-american-atlanta-georgia-10-14-2026/event/0E0064C1E3F2E21D",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "The Dread Crew of Oddwood",
+   "date": "2026-10-14",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/the-dread-crew-of-oddwood-atlanta-georgia-10-14-2026/event/0E0064F19F0E9C20",
+   "type": "concert"
+  },
+  {
+   "venue": "Center Stage",
+   "title": "Milo Rossi: Offline and In Person",
+   "date": "2026-10-14",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/milo-rossi-offline-and-in-person-atlanta-georgia-10-14-2026/event/0E0064D6A87D7D34"
+  },
+  {
+   "venue": "Gas South Arena",
+   "title": "beabadoobee: The Powerlines Tour",
+   "date": "2026-10-14",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/beabadoobee-the-powerlines-tour-duluth-georgia-10-14-2026/event/0E0064D6B14C8BA1",
+   "type": "concert"
+  },
+  {
+   "venue": "The Eastern",
+   "title": "Parcels",
+   "date": "2026-10-14",
+   "time": "20:00:00",
+   "url": "https://easternatl.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Coca-Cola Roxy",
+   "title": "Foster The People: Good Mourning Sunshine Tour",
+   "date": "2026-10-14",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/foster-the-people-good-mourning-sunshine-atlanta-georgia-10-14-2026/event/0E00649CE107DFEB",
+   "type": "concert"
+  },
+  {
+   "venue": "Vinyl",
+   "title": "Blessing Offor",
+   "date": "2026-10-14",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/blessing-offor-atlanta-georgia-10-14-2026/event/0E0064F4BF7BA960",
+   "type": "concert"
+  },
+  {
+   "venue": "Terminal West",
+   "title": "The Brothers Comatose",
+   "date": "2026-10-14",
+   "time": "20:00:00",
+   "url": "http://terminalwestatl.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Smith's Olde Bar",
+   "title": "guardin w/ kennedyxoxo, Fijimar & iwearbape",
+   "date": "2026-10-14",
+   "time": "20:30:00",
+   "url": "https://www.ticketweb.com/event/guardin-w-kennedyxoxo-fijimar-smiths-olde-bar-tickets/14236094",
+   "type": "concert"
   }
  ]
 }
