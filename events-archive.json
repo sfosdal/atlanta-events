@@ -302,6 +302,129 @@
    "time": "20:30:00",
    "url": "https://www.ticketweb.com/event/guardin-w-kennedyxoxo-fijimar-smiths-olde-bar-tickets/14236094",
    "type": "concert"
+  },
+  {
+   "venue": "Truist Park",
+   "title": "Atlanta Braves NLCS Home Game 2",
+   "date": "2026-10-15",
+   "time": "",
+   "url": "https://www.ticketmaster.com/atlanta-braves-nlcs-home-game-2-atlanta-georgia-10-15-2026/event/0E006512BCA5B5FF",
+   "type": "sports",
+   "status": "cancelled",
+   "statusSince": "2026-10-12T01:47:18.491Z"
+  },
+  {
+   "venue": "Gas South Arena",
+   "title": "Alabama Live In Concert",
+   "date": "2026-10-15",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/alabama-live-in-concert-duluth-georgia-10-15-2026/event/0E00650DC06FB510",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "ButtTootKing: Lydia B Kollins, Suzie Toot, and Kori King",
+   "date": "2026-10-15",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/butttootking-lydia-b-kollins-suzie-toot-atlanta-georgia-10-15-2026/event/0E0064A8DA26AA2B",
+   "type": "arts"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Token: I'm Leaving Soon Tour",
+   "date": "2026-10-15",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/token-im-leaving-soon-tour-atlanta-georgia-10-15-2026/event/0E0064F0AF9BB162",
+   "type": "concert"
+  },
+  {
+   "venue": "Ameris Bank Amphitheatre",
+   "title": "Dan + Shay: The Young Tour",
+   "date": "2026-10-15",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/dan-shay-the-young-tour-alpharetta-georgia-10-15-2026/event/0E0064AEE1288ED6",
+   "type": "concert"
+  },
+  {
+   "venue": "State Farm Arena",
+   "title": "Delta Sky360 Club Experience: Katseye",
+   "date": "2026-10-15",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/delta-sky360-club-experience-katseye-atlanta-georgia-10-15-2026/event/0E006513AE97A7F0"
+  },
+  {
+   "venue": "The Eastern",
+   "title": "Interpol w/ DIIV",
+   "date": "2026-10-15",
+   "time": "20:00:00",
+   "url": "https://easternatl.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Coca-Cola Roxy",
+   "title": "Arcángel - La 8va Maravilla World Tour",
+   "date": "2026-10-15",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/arcangel-la-8va-maravilla-world-tour-atlanta-georgia-10-15-2026/event/0E0064B4AB4BCB0D",
+   "type": "concert"
+  },
+  {
+   "venue": "Buckhead Theatre",
+   "title": "Kelela - new avatar live",
+   "date": "2026-10-15",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/kelela-new-avatar-live-atlanta-georgia-10-15-2026/event/0E0064BBC205EC26",
+   "type": "concert"
+  },
+  {
+   "venue": "Variety Playhouse",
+   "title": "Kyle Kinane",
+   "date": "2026-10-15",
+   "time": "20:00:00",
+   "url": "http://www.variety-playhouse.com",
+   "type": "arts"
+  },
+  {
+   "venue": "Center Stage",
+   "title": "Isaiah Falls",
+   "date": "2026-10-15",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/isaiah-falls-atlanta-georgia-10-15-2026/event/0E0064CBDE6F5F43",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-10-12T01:47:18.491Z"
+  },
+  {
+   "venue": "The Loft",
+   "title": "Tricky",
+   "date": "2026-10-15",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/tricky-atlanta-georgia-10-15-2026/event/0E0064A6A12FC7E6",
+   "type": "concert"
+  },
+  {
+   "venue": "Vinyl",
+   "title": "Great Lake Swimmers",
+   "date": "2026-10-15",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/great-lake-swimmers-atlanta-georgia-10-15-2026/event/0E0064CFA14673F2",
+   "type": "concert"
+  },
+  {
+   "venue": "Terminal West",
+   "title": "Tank and The Bangas",
+   "date": "2026-10-15",
+   "time": "20:00:00",
+   "url": "http://terminalwestatl.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Aisle 5",
+   "title": "Bayonne",
+   "date": "2026-10-15",
+   "time": "20:00:00",
+   "url": "https://www.eventim.us/wafform.aspx?_act=eventtickets&_pky=688178",
+   "type": "concert"
   }
  ]
 }
