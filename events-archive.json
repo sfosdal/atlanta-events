@@ -425,6 +425,153 @@
    "time": "20:00:00",
    "url": "https://www.eventim.us/wafform.aspx?_act=eventtickets&_pky=688178",
    "type": "concert"
+  },
+  {
+   "venue": "Truist Park",
+   "title": "Atlanta Braves NLCS Home Game 3",
+   "date": "2026-10-16",
+   "time": "",
+   "url": "https://www.ticketmaster.com/atlanta-braves-nlcs-home-game-3-atlanta-georgia-10-16-2026/event/0E006512BCAAB606",
+   "type": "sports",
+   "status": "cancelled",
+   "statusSince": "2026-10-12T01:47:18.491Z"
+  },
+  {
+   "venue": "Coca-Cola Roxy",
+   "title": "Trap Karaoke: Atlanta",
+   "date": "2026-10-16",
+   "time": "18:00:00",
+   "url": "https://www.universe.com/events/trap-karaoke-atlanta-tickets-7XFYSW?ref=ticketmaster",
+   "type": "concert"
+  },
+  {
+   "venue": "Lakewood Amphitheatre",
+   "title": "$uicideboy$ Present Grey Day Tour 2026 W. Destroy Lonely & More",
+   "date": "2026-10-16",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/uicideboy-present-grey-day-tour-2026-atlanta-georgia-10-16-2026/event/0E00647BF19754D0",
+   "type": "concert"
+  },
+  {
+   "venue": "Gas South Arena",
+   "title": "MercyMe, Jeremy Camp, Tim Timmons, Sam Wesley",
+   "date": "2026-10-16",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/mercyme-jeremy-camp-tim-timmons-sam-duluth-georgia-10-16-2026/event/0E0064A3CA75DCC4",
+   "type": "concert"
+  },
+  {
+   "venue": "Coca-Cola Roxy",
+   "title": "Trap Karaoke",
+   "date": "2026-10-16",
+   "time": "19:00:00",
+   "url": "https://trapkaraoke.com/events/atlanta-10-16",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Quadeca",
+   "date": "2026-10-16",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/quadeca-atlanta-georgia-10-16-2026/event/0E0064F4A60078D2",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "MARIS",
+   "date": "2026-10-16",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/maris-atlanta-georgia-10-16-2026/event/0E0064BBDAE234B6",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Ceremony",
+   "date": "2026-10-16",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/ceremony-atlanta-georgia-10-16-2026/event/0E0064CFD96AD1B9",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "ivri",
+   "date": "2026-10-16",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/ivri-atlanta-georgia-10-16-2026/event/0E0064CC01422443",
+   "type": "concert"
+  },
+  {
+   "venue": "Fox Theatre",
+   "title": "Atlanta Ballet 2: Cinderella",
+   "date": "2026-10-16",
+   "time": "19:30:00",
+   "url": "https://www.foxtheatre.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "Atlanta Symphony Hall",
+   "title": "Guster With The Atlanta Symphony Orchestra",
+   "date": "2026-10-16",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/guster-with-the-atlanta-symphony-orchestra-atlanta-georgia-10-16-2026/event/0E006473F3001D3D",
+   "type": "concert"
+  },
+  {
+   "venue": "Tabernacle",
+   "title": "San Holo presents True Love In A Made Up World",
+   "date": "2026-10-16",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/san-holo-presents-true-love-in-atlanta-georgia-10-16-2026/event/0E0064781AC7559A",
+   "type": "concert"
+  },
+  {
+   "venue": "The Eastern",
+   "title": "Interpol w/ DIIV",
+   "date": "2026-10-16",
+   "time": "20:00:00",
+   "url": "https://easternatl.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Variety Playhouse",
+   "title": "Waylon Wyatt",
+   "date": "2026-10-16",
+   "time": "20:00:00",
+   "url": "http://www.variety-playhouse.com"
+  },
+  {
+   "venue": "Terminal West",
+   "title": "Tank and The Bangas",
+   "date": "2026-10-16",
+   "time": "20:00:00",
+   "url": "http://terminalwestatl.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Aisle 5",
+   "title": "Bombargo",
+   "date": "2026-10-16",
+   "time": "20:00:00",
+   "url": "https://www.eventim.us/event/tickets/694325",
+   "type": "concert"
+  },
+  {
+   "venue": "Vinyl",
+   "title": "KPop After Dark",
+   "date": "2026-10-16",
+   "time": "21:00:00",
+   "url": "https://www.ticketmaster.com/kpop-after-dark-atlanta-georgia-10-16-2026/event/0E00646DA76583E2",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-10-14T20:41:18.320Z"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Clayton Nile Young w/ Sunriver",
+   "date": "2026-10-16",
+   "time": "21:00:00",
+   "url": "https://www.ticketmaster.com/clayton-nile-young-w-sunriver-decatur-georgia-10-16-2026/event/0E006511B81BC135",
+   "type": "concert"
   }
  ]
 }
