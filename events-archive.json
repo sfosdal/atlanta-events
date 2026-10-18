@@ -572,6 +572,169 @@
    "time": "21:00:00",
    "url": "https://www.ticketmaster.com/clayton-nile-young-w-sunriver-decatur-georgia-10-16-2026/event/0E006511B81BC135",
    "type": "concert"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Jake Worthington",
+   "date": "2026-10-17",
+   "time": "",
+   "url": "https://link.dice.fm/Kf6422a6a646",
+   "type": "concert"
+  },
+  {
+   "venue": "Fox Theatre",
+   "title": "Atlanta Ballet 2: Cinderella",
+   "date": "2026-10-17",
+   "time": "13:00:00",
+   "url": "https://www.foxtheatre.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "Fox Theatre",
+   "title": "Atlanta Ballet 2: Cinderella",
+   "date": "2026-10-17",
+   "time": "17:00:00",
+   "url": "https://www.foxtheatre.org/",
+   "type": "arts"
+  },
+  {
+   "venue": "Ameris Bank Amphitheatre",
+   "title": "Breaking Benjamin",
+   "date": "2026-10-17",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/breaking-benjamin-alpharetta-georgia-10-17-2026/event/0E00644BA2C86686",
+   "type": "concert"
+  },
+  {
+   "venue": "Gas South Arena",
+   "title": "Atlanta Gladiators vs. Norfolk Admirals",
+   "date": "2026-10-17",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/atlanta-gladiators-vs-norfolk-admirals-duluth-georgia-10-17-2026/event/0E0064C3DA2F24C5",
+   "type": "sports"
+  },
+  {
+   "venue": "Tabernacle",
+   "title": "Atsuko Okatsuka: The Big Bowl Tour",
+   "date": "2026-10-17",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/atsuko-okatsuka-the-big-bowl-tour-atlanta-georgia-10-17-2026/event/0E0064A59120A157",
+   "age21": true,
+   "type": "arts"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "[L7: The Last Hurrah Tour 2026]",
+   "date": "2026-10-17",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/l7-the-last-hurrah-tour-2026-atlanta-georgia-10-17-2026/event/0E0064A6ED79D03B",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Cortisa Star - For All The Dolls Tour",
+   "date": "2026-10-17",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/cortisa-star-for-all-the-dolls-atlanta-georgia-10-17-2026/event/0E0064E6C7DBDF75",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Adjust The Sails",
+   "date": "2026-10-17",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/adjust-the-sails-atlanta-georgia-10-17-2026/event/0E0065118DD84EE7",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Combichrist",
+   "date": "2026-10-17",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/combichrist-atlanta-georgia-10-17-2026/event/0E0064D69FEA6C8C",
+   "type": "concert"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Jake Worthington",
+   "date": "2026-10-17",
+   "time": "19:00:00",
+   "url": "https://link.dice.fm/K817e274b834",
+   "type": "concert"
+  },
+  {
+   "venue": "Mercedes-Benz Stadium",
+   "title": "Atlanta United FC vs. Inter Miami CF",
+   "date": "2026-10-17",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/atlanta-united-fc-vs-inter-miami-atlanta-georgia-10-17-2026/event/0E006372B37D9D49",
+   "type": "sports"
+  },
+  {
+   "venue": "Atlanta Symphony Hall",
+   "title": "Guster With The Atlanta Symphony Orchestra",
+   "date": "2026-10-17",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/guster-with-the-atlanta-symphony-orchestra-atlanta-georgia-10-17-2026/event/0E006471D1C6B420",
+   "type": "concert"
+  },
+  {
+   "venue": "State Farm Arena",
+   "title": "Delta Sky360 Club Experience: Don Omar",
+   "date": "2026-10-17",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/delta-sky360-club-experience-don-omar-atlanta-georgia-10-17-2026/event/0E0064B5C94C247E",
+   "status": "cancelled",
+   "statusSince": "2026-10-12T01:47:18.491Z"
+  },
+  {
+   "venue": "The Eastern",
+   "title": "Whethan",
+   "date": "2026-10-17",
+   "time": "20:00:00",
+   "url": "https://easternatl.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Coca-Cola Roxy",
+   "title": "Nine Vicious - Sedition",
+   "date": "2026-10-17",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/nine-vicious-sedition-atlanta-georgia-10-17-2026/event/0E0065300C883822",
+   "type": "concert"
+  },
+  {
+   "venue": "The Loft",
+   "title": "After",
+   "date": "2026-10-17",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/after-atlanta-georgia-10-17-2026/event/0E0064EF9E137C8C",
+   "type": "concert"
+  },
+  {
+   "venue": "Vinyl",
+   "title": "The Young Turnt Barbi Land Show w/ TRIM",
+   "date": "2026-10-17",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/the-young-turnt-barbi-land-show-atlanta-georgia-10-17-2026/event/0E00651BC6D34AFF",
+   "type": "concert"
+  },
+  {
+   "venue": "Terminal West",
+   "title": "Silverada",
+   "date": "2026-10-17",
+   "time": "20:00:00",
+   "url": "http://terminalwestatl.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Buckhead Theatre",
+   "title": "Club 90s MJ Night (18+)",
+   "date": "2026-10-17",
+   "time": "21:00:00",
+   "url": "https://www.ticketmaster.com/club-90s-mj-night-18-atlanta-georgia-10-17-2026/event/0E0065378D285D3D",
+   "age21": true,
+   "type": "concert"
   }
  ]
 }
