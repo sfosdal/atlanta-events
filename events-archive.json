@@ -735,6 +735,115 @@
    "url": "https://www.ticketmaster.com/club-90s-mj-night-18-atlanta-georgia-10-17-2026/event/0E0065378D285D3D",
    "age21": true,
    "type": "concert"
+  },
+  {
+   "venue": "Mercedes-Benz Stadium",
+   "title": "Atlanta Falcons v Chicago Bears",
+   "date": "2026-10-18",
+   "time": "13:00:00",
+   "url": "https://www.ticketmaster.com/atlanta-falcons-v-chicago-bears-atlanta-georgia-10-18-2026/event/0E00647F8E156D63",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "Fox"
+    ]
+   }
+  },
+  {
+   "venue": "Gas South Arena",
+   "title": "Atlanta Gladiators vs. Norfolk Admirals",
+   "date": "2026-10-18",
+   "time": "15:00:00",
+   "url": "https://www.ticketmaster.com/atlanta-gladiators-vs-norfolk-admirals-duluth-georgia-10-18-2026/event/0E0064C3DA3224D1",
+   "type": "sports"
+  },
+  {
+   "venue": "Fox Theatre",
+   "title": "Outlander in Concert",
+   "date": "2026-10-18",
+   "time": "16:00:00",
+   "url": "https://www.foxtheatre.org/"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Nevertel",
+   "date": "2026-10-18",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/nevertel-atlanta-georgia-10-18-2026/event/0E0064C1AD1290CA",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "In Her Own Words / Every Avenue",
+   "date": "2026-10-18",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/in-her-own-words-every-avenue-atlanta-georgia-10-18-2026/event/0E0064AFC8D356DD",
+   "type": "concert"
+  },
+  {
+   "venue": "Atlanta Symphony Hall",
+   "title": "The Rocky Horror Picture Show with Barry Bostwick and Nell Campbell",
+   "date": "2026-10-18",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/the-rocky-horror-picture-show-with-atlanta-georgia-10-18-2026/event/0E006488DA0B24BF",
+   "type": "movie"
+  },
+  {
+   "venue": "Buckhead Theatre",
+   "title": "Kathy Griffin: New Face, New Tour (18+)",
+   "date": "2026-10-18",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/kathy-griffin-new-face-new-tour-atlanta-georgia-10-18-2026/event/0E00647018415C7C",
+   "age21": true,
+   "type": "arts"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Rachel Bochner | The \"Sorry If It's Selfish\" Tour",
+   "date": "2026-10-18",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/rachel-bochner-the-sorry-if-its-atlanta-georgia-10-18-2026/event/0E0064D7C7A1D1B6",
+   "type": "concert"
+  },
+  {
+   "venue": "Center Stage",
+   "title": "Abbie Gamboa",
+   "date": "2026-10-18",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/abbie-gamboa-atlanta-georgia-10-18-2026/event/0E0064FEA96491CD",
+   "type": "concert"
+  },
+  {
+   "venue": "Tabernacle",
+   "title": "Cavetown - Running With Scissors Tour",
+   "date": "2026-10-18",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/cavetown-running-with-scissors-tour-atlanta-georgia-10-18-2026/event/0E00648795336E91",
+   "type": "concert"
+  },
+  {
+   "venue": "Vinyl",
+   "title": "LaMP",
+   "date": "2026-10-18",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/lamp-atlanta-georgia-10-18-2026/event/0E0064CCEA4FC718",
+   "type": "concert"
+  },
+  {
+   "venue": "Terminal West",
+   "title": "Hiss Golden Messenger",
+   "date": "2026-10-18",
+   "time": "20:00:00",
+   "url": "http://terminalwestatl.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Georgian Chamber Players",
+   "date": "2026-10-18",
+   "time": "20:00:00",
+   "url": "https://link.dice.fm/pa962b8f6de9",
+   "type": "concert"
   }
  ]
 }
