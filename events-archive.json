@@ -844,6 +844,95 @@
    "time": "20:00:00",
    "url": "https://link.dice.fm/pa962b8f6de9",
    "type": "concert"
+  },
+  {
+   "venue": "Truist Park",
+   "title": "Atlanta Braves NLCS Home Game 4",
+   "date": "2026-10-19",
+   "time": "",
+   "url": "https://www.ticketmaster.com/atlanta-braves-nlcs-home-game-4-atlanta-georgia-10-19-2026/event/0E006512BCAFB60F",
+   "type": "sports",
+   "status": "cancelled",
+   "statusSince": "2026-10-12T01:47:18.491Z"
+  },
+  {
+   "venue": "Atlanta Symphony Hall",
+   "title": "Black Violin: The Be Free Tour",
+   "date": "2026-10-19",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/black-violin-the-be-free-tour-atlanta-georgia-10-19-2026/event/0E0064CACC3C481A",
+   "type": "concert"
+  },
+  {
+   "venue": "Buckhead Theatre",
+   "title": "Chad Gray: 30 Years of Madnesss",
+   "date": "2026-10-19",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/chad-gray-30-years-of-madnesss-atlanta-georgia-10-19-2026/event/0E0064C3FC6E9E22",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Sorry Ghost: The Insufferably Indie Tour",
+   "date": "2026-10-19",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/sorry-ghost-the-insufferably-indie-tour-atlanta-georgia-10-19-2026/event/0E0064F7EB9D5A49",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Neoni - How To Kill A Fairytale Tour - Chapter 2",
+   "date": "2026-10-19",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/neoni-how-to-kill-a-fairytale-atlanta-georgia-10-19-2026/event/0E0064FBF783C53A",
+   "type": "concert"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Unhinged & Immoral Podcast Live at Eddie's Attic",
+   "date": "2026-10-19",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/unhinged-immoral-podcast-live-at-eddies-decatur-georgia-10-19-2026/event/0E006528F70BA2FB",
+   "type": "concert"
+  },
+  {
+   "venue": "Tabernacle",
+   "title": "Vince Staples - Cry Baby Tour",
+   "date": "2026-10-19",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/vince-staples-cry-baby-tour-atlanta-georgia-10-19-2026/event/0E0064C903B4BCBB",
+   "type": "concert"
+  },
+  {
+   "venue": "Variety Playhouse",
+   "title": "Bassvictim w/ Thoom",
+   "date": "2026-10-19",
+   "time": "20:00:00",
+   "url": "http://www.variety-playhouse.com",
+   "type": "concert"
+  },
+  {
+   "venue": "Vinyl",
+   "title": "Maddie Zahm",
+   "date": "2026-10-19",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/maddie-zahm-atlanta-georgia-10-19-2026/event/0E0064C39A9F8CF3",
+   "type": "concert"
+  },
+  {
+   "venue": "Terminal West",
+   "title": "bunii",
+   "date": "2026-10-19",
+   "time": "20:00:00",
+   "url": "http://terminalwestatl.com/"
+  },
+  {
+   "venue": "Aisle 5",
+   "title": "YHWH Nailgun",
+   "date": "2026-10-19",
+   "time": "20:00:00",
+   "url": "https://eventim.us/a5yhwhnailgun2026",
+   "type": "concert"
   }
  ]
 }
