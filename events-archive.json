@@ -933,6 +933,69 @@
    "time": "20:00:00",
    "url": "https://eventim.us/a5yhwhnailgun2026",
    "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Arch Enemy/The Black Dahlia Murder: Wrath Across North America 2026",
+   "date": "2026-10-20",
+   "time": "17:00:00",
+   "url": "https://www.ticketmaster.com/arch-enemythe-black-dahlia-murder-wrath-atlanta-georgia-10-20-2026/event/0E0064B2D985EDD2",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "LØLØ - God Forbid a Girl Goes on Tour",
+   "date": "2026-10-20",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/ll-god-forbid-a-girl-goes-atlanta-georgia-10-20-2026/event/0E0064ADA0E9D1C1",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Lilyisthatyou - The Flowers Have Feelings Tour",
+   "date": "2026-10-20",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/lilyisthatyou-the-flowers-have-feelings-tour-atlanta-georgia-10-20-2026/event/0E006495EFC61F08",
+   "type": "concert"
+  },
+  {
+   "venue": "Fox Theatre",
+   "title": "Dr. Jekyll and Mr. Hyde (1920) with Ken Double",
+   "date": "2026-10-20",
+   "time": "20:00:00",
+   "url": "https://www.foxtheatre.org/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Eastern",
+   "title": "Bulwark LIVE: The Good Fight Tour",
+   "date": "2026-10-20",
+   "time": "20:00:00",
+   "url": "https://easternatl.com/"
+  },
+  {
+   "venue": "Buckhead Theatre",
+   "title": "The Residents \"Eskimo Live\"",
+   "date": "2026-10-20",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/the-residents-eskimo-live-atlanta-georgia-10-20-2026/event/0E0064EAC788D352",
+   "type": "concert"
+  },
+  {
+   "venue": "Vinyl",
+   "title": "Rapsody",
+   "date": "2026-10-20",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/rapsody-atlanta-georgia-10-20-2026/event/0E00652AAE86B729",
+   "type": "concert"
+  },
+  {
+   "venue": "Terminal West",
+   "title": "The Linda Lindas w/ Grace Bowers",
+   "date": "2026-10-20",
+   "time": "20:00:00",
+   "url": "http://terminalwestatl.com/",
+   "type": "concert"
   }
  ]
 }
