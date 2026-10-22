@@ -996,6 +996,97 @@
    "time": "20:00:00",
    "url": "http://terminalwestatl.com/",
    "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Dying Fetus & Sanguisugabogg",
+   "date": "2026-10-21",
+   "time": "17:30:00",
+   "url": "https://www.ticketmaster.com/dying-fetus-sanguisugabogg-atlanta-georgia-10-21-2026/event/0E006496AEE0CDCC",
+   "type": "concert"
+  },
+  {
+   "venue": "Variety Playhouse",
+   "title": "Close Your Eyes",
+   "date": "2026-10-21",
+   "time": "18:30:00",
+   "url": "http://www.variety-playhouse.com"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Oso Oso",
+   "date": "2026-10-21",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/oso-oso-atlanta-georgia-10-21-2026/event/0E006512AF2B9E47",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Goodbye June | Trouble For All 2026 Tour",
+   "date": "2026-10-21",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/goodbye-june-trouble-for-all-2026-atlanta-georgia-10-21-2026/event/0E0064DDBBCBA205",
+   "type": "concert"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Slow Accordion",
+   "date": "2026-10-21",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/slow-accordion-decatur-georgia-10-21-2026/event/0E0064DDD4B7C781",
+   "type": "concert"
+  },
+  {
+   "venue": "State Farm Arena",
+   "title": "WNBA Finals: Golden State Valkyries At Atlanta Dream - Game 3",
+   "date": "2026-10-21",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/wnba-finals-golden-state-valkyries-at-atlanta-georgia-10-21-2026/event/0E00654DD2FC5471",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "USA Net",
+     "CNBC"
+    ]
+   }
+  },
+  {
+   "venue": "Fox Theatre",
+   "title": "The Ring in Concert w/ Georgia Symphony Orchestra",
+   "date": "2026-10-21",
+   "time": "20:00:00",
+   "url": "https://www.foxtheatre.org/"
+  },
+  {
+   "venue": "The Eastern",
+   "title": "horsegiirL",
+   "date": "2026-10-21",
+   "time": "20:00:00",
+   "url": "https://easternatl.com/"
+  },
+  {
+   "venue": "Buckhead Theatre",
+   "title": "Dope Lemon",
+   "date": "2026-10-21",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/dope-lemon-atlanta-georgia-10-21-2026/event/0E006504BE6FA69A",
+   "type": "concert"
+  },
+  {
+   "venue": "Vinyl",
+   "title": "Chanpan - autogratis North American Tour",
+   "date": "2026-10-21",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/chanpan-autogratis-north-american-tour-atlanta-georgia-10-21-2026/event/0E0064C2DD85760A",
+   "type": "concert"
+  },
+  {
+   "venue": "Aisle 5",
+   "title": "Karina Rykman",
+   "date": "2026-10-21",
+   "time": "20:00:00",
+   "url": "https://eventim.us/a5karinarykman2026",
+   "type": "concert"
   }
  ]
 }
