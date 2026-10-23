@@ -1087,6 +1087,127 @@
    "time": "20:00:00",
    "url": "https://eventim.us/a5karinarykman2026",
    "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "PeelingFlesh",
+   "date": "2026-10-22",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/peelingflesh-atlanta-georgia-10-22-2026/event/0E0064F8D832E154",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Texas Is the Reason",
+   "date": "2026-10-22",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/texas-is-the-reason-atlanta-georgia-10-22-2026/event/0E006518A88EA4C4",
+   "type": "concert"
+  },
+  {
+   "venue": "The Eastern",
+   "title": "Mastodon w/ Deafheaven",
+   "date": "2026-10-22",
+   "time": "19:00:00",
+   "url": "https://www.easternatl.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Buddha Trixie",
+   "date": "2026-10-22",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/buddha-trixie-atlanta-georgia-10-22-2026/event/0E0064DED301BF60",
+   "type": "concert"
+  },
+  {
+   "venue": "Terminal West",
+   "title": "The Hip Abduction w/ SensaMotion",
+   "date": "2026-10-22",
+   "time": "19:00:00",
+   "url": "http://terminalwestatl.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Ryan Devlin Quartet",
+   "date": "2026-10-22",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/ryan-devlin-quartet-decatur-georgia-10-22-2026/event/0E006522CE7B1A2E",
+   "type": "concert"
+  },
+  {
+   "venue": "Fox Theatre",
+   "title": "Brand New",
+   "date": "2026-10-22",
+   "time": "20:00:00",
+   "url": "https://www.foxtheatre.org/",
+   "type": "concert"
+  },
+  {
+   "venue": "Atlanta Symphony Hall",
+   "title": "Rhapsody in Blue with the ASO",
+   "date": "2026-10-22",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/rhapsody-in-blue-with-the-aso-atlanta-georgia-10-22-2026/event/0E0064D7CFA2DDB9",
+   "type": "arts"
+  },
+  {
+   "venue": "Tabernacle",
+   "title": "Katt Williams On Book Tour!",
+   "date": "2026-10-22",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/katt-williams-on-book-tour-atlanta-georgia-10-22-2026/event/0E006519ACF5AA41",
+   "type": "arts"
+  },
+  {
+   "venue": "Coca-Cola Roxy",
+   "title": "kwn: wn night only",
+   "date": "2026-10-22",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/kwn-wn-night-only-atlanta-georgia-10-22-2026/event/0E00652311F8657D",
+   "type": "concert"
+  },
+  {
+   "venue": "Buckhead Theatre",
+   "title": "Unpopular Opinion Night (21+)",
+   "date": "2026-10-22",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/unpopular-opinion-night-21-atlanta-georgia-10-22-2026/event/0E006547EC7C8326",
+   "age21": true,
+   "type": "arts"
+  },
+  {
+   "venue": "Variety Playhouse",
+   "title": "Benjamin Tod",
+   "date": "2026-10-22",
+   "time": "20:00:00",
+   "url": "http://www.variety-playhouse.com",
+   "type": "concert"
+  },
+  {
+   "venue": "Center Stage",
+   "title": "Stryper",
+   "date": "2026-10-22",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/stryper-atlanta-georgia-10-22-2026/event/0E00648E451ABD54",
+   "type": "concert"
+  },
+  {
+   "venue": "Vinyl",
+   "title": "Peter Bjorn and John",
+   "date": "2026-10-22",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/peter-bjorn-and-john-atlanta-georgia-10-22-2026/event/0E0064C8998E7B4A",
+   "type": "concert"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Corduroy Cadets w/ Wyatt Pike",
+   "date": "2026-10-22",
+   "time": "21:00:00",
+   "url": "https://www.ticketmaster.com/corduroy-cadets-w-wyatt-pike-decatur-georgia-10-22-2026/event/0E006511CD54ECA7",
+   "type": "concert"
   }
  ]
 }
