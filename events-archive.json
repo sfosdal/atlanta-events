@@ -1208,6 +1208,150 @@
    "time": "21:00:00",
    "url": "https://www.ticketmaster.com/corduroy-cadets-w-wyatt-pike-decatur-georgia-10-22-2026/event/0E006511CD54ECA7",
    "type": "concert"
+  },
+  {
+   "venue": "McCamish Pavilion",
+   "title": "Georgia Tech Yellow Jackets Womens Volleyball vs. Pittsburgh Panthers Womens Volleyball",
+   "date": "2026-10-23",
+   "time": "19:00:00",
+   "url": "https://ramblinwreck.com/sports/m-baskbl/schedule/",
+   "type": "sports"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "The Rat Utopia Experiment",
+   "date": "2026-10-23",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/the-rat-utopia-experiment-atlanta-georgia-10-23-2026/event/0E006504D836CD0E",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Inhuman Condition",
+   "date": "2026-10-23",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/inhuman-condition-atlanta-georgia-10-23-2026/event/0E006545F05484D5",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Flwr Chyld & Friends",
+   "date": "2026-10-23",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/flwr-chyld-friends-atlanta-georgia-10-23-2026/event/0E006512F07A2F01",
+   "type": "concert"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Will Varley w/ Beans on Toast",
+   "date": "2026-10-23",
+   "time": "19:00:00",
+   "url": "https://link.dice.fm/S84d47c936cd",
+   "type": "concert"
+  },
+  {
+   "venue": "Cobb Energy Centre",
+   "title": "Skyline Lounge - Dan and Phil",
+   "date": "2026-10-23",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/skyline-lounge-dan-and-phil-atlanta-georgia-10-23-2026/event/0E0064C197056D32",
+   "age21": true
+  },
+  {
+   "venue": "Cobb Energy Centre",
+   "title": "Dan and Phil: Hard Launch World Tour",
+   "date": "2026-10-23",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/dan-and-phil-hard-launch-world-atlanta-georgia-10-23-2026/event/0E0064C196FF6D20",
+   "age21": true,
+   "type": "arts"
+  },
+  {
+   "venue": "Buckhead Theatre",
+   "title": "Josh Thomas: Jiggle, Jiggle",
+   "date": "2026-10-23",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/josh-thomas-jiggle-jiggle-atlanta-georgia-10-23-2026/event/0E006456E48DCD6E",
+   "type": "arts"
+  },
+  {
+   "venue": "Atlanta Symphony Hall",
+   "title": "Matt McCusker: The Healing Frequency Tour",
+   "date": "2026-10-23",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/matt-mccusker-the-healing-frequency-tour-atlanta-georgia-10-23-2026/event/0E0064D0DE76EF11",
+   "type": "arts"
+  },
+  {
+   "venue": "The Eastern",
+   "title": "Sugar w/ J. Robbins",
+   "date": "2026-10-23",
+   "time": "20:00:00",
+   "url": "https://www.websterhall.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Coca-Cola Roxy",
+   "title": "kwn: wn night only",
+   "date": "2026-10-23",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/kwn-wn-night-only-atlanta-georgia-10-23-2026/event/0E006531F4DAB722",
+   "type": "concert"
+  },
+  {
+   "venue": "Center Stage",
+   "title": "Nick Shoulders",
+   "date": "2026-10-23",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/nick-shoulders-atlanta-georgia-10-23-2026/event/0E00647FD8123C33",
+   "type": "concert"
+  },
+  {
+   "venue": "The Loft",
+   "title": "Dev Lemons",
+   "date": "2026-10-23",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/dev-lemons-atlanta-georgia-10-23-2026/event/0E0064E9936C8376",
+   "type": "concert"
+  },
+  {
+   "venue": "Vinyl",
+   "title": "Dev Lemons Special Stuff Package",
+   "date": "2026-10-23",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/dev-lemons-special-stuff-package-atlanta-georgia-10-23-2026/event/0E006534F678116D"
+  },
+  {
+   "venue": "Vinyl",
+   "title": "Alana Springsteen",
+   "date": "2026-10-23",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/alana-springsteen-atlanta-georgia-10-23-2026/event/0E00649CAF4F2ACF",
+   "type": "concert"
+  },
+  {
+   "venue": "Terminal West",
+   "title": "Stephen Day",
+   "date": "2026-10-23",
+   "time": "20:00:00",
+   "url": "http://terminalwestatl.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Chastain Park",
+   "title": "RAWAYANA - ¿Dónde es el after? World Tour",
+   "date": "2026-10-23",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/rawayana-donde-es-el-after-world-atlanta-georgia-10-23-2026/event/0E00646CA45D7B23",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Stan Society Presents: Olivia Rodrigo Night | 18+",
+   "date": "2026-10-23",
+   "time": "20:30:00",
+   "url": "https://www.ticketmaster.com/stan-society-presents-olivia-rodrigo-night-atlanta-georgia-10-23-2026/event/0E00652AF3215AEA",
+   "type": "concert"
   }
  ]
 }
