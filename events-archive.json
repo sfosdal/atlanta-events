@@ -1352,6 +1352,179 @@
    "time": "20:30:00",
    "url": "https://www.ticketmaster.com/stan-society-presents-olivia-rodrigo-night-atlanta-georgia-10-23-2026/event/0E00652AF3215AEA",
    "type": "concert"
+  },
+  {
+   "venue": "State Farm Arena",
+   "title": "WNBA Finals: Golden State Valkyries At Atlanta Dream - Game 4",
+   "date": "2026-10-24",
+   "time": "13:00:00",
+   "url": "https://www.ticketmaster.com/wnba-finals-golden-state-valkyries-at-atlanta-georgia-10-24-2026/event/0E00654DD30454A1",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "NBC"
+    ]
+   }
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Madam Radar",
+   "date": "2026-10-24",
+   "time": "17:00:00",
+   "url": "https://link.dice.fm/Icf8ecee65e9",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Ecca Vandal",
+   "date": "2026-10-24",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/ecca-vandal-atlanta-georgia-10-24-2026/event/0E0064B5F9C7BFB6",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Smidley",
+   "date": "2026-10-24",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/smidley-atlanta-georgia-10-24-2026/event/0E006503A83278F5",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Fenix TX",
+   "date": "2026-10-24",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/fenix-tx-atlanta-georgia-10-24-2026/event/0E0064C9DFAC5F53",
+   "type": "concert"
+  },
+  {
+   "venue": "Vinyl",
+   "title": "The Number Twelve Looks Like You",
+   "date": "2026-10-24",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/the-number-twelve-looks-like-you-atlanta-georgia-10-24-2026/event/0E0064EFA3F287F5",
+   "type": "concert"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "John Paul White",
+   "date": "2026-10-24",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/john-paul-white-decatur-georgia-10-24-2026/event/0E0064FEBE9BB464",
+   "type": "concert"
+  },
+  {
+   "venue": "Mercedes-Benz Stadium",
+   "title": "Atlanta United FC vs. Chicago Fire FC",
+   "date": "2026-10-24",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/atlanta-united-fc-vs-chicago-fire-atlanta-georgia-10-24-2026/event/0E006372B3719D30",
+   "type": "sports"
+  },
+  {
+   "venue": "Tabernacle",
+   "title": "JPEGMAFIA: the Experimental Rap Tour",
+   "date": "2026-10-24",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/jpegmafia-the-experimental-rap-tour-atlanta-georgia-10-24-2026/event/0E006489D6DDFB37",
+   "type": "concert"
+  },
+  {
+   "venue": "Atlanta Symphony Hall",
+   "title": "Rhapsody in Blue with the ASO",
+   "date": "2026-10-24",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/rhapsody-in-blue-with-the-aso-atlanta-georgia-10-24-2026/event/0E0064D7CFA5DDC2",
+   "type": "arts"
+  },
+  {
+   "venue": "Cobb Energy Centre",
+   "title": "Moein: Live in Atlanta",
+   "date": "2026-10-24",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/moein-live-in-atlanta-atlanta-georgia-10-24-2026/event/0E006519C01ED306",
+   "type": "concert"
+  },
+  {
+   "venue": "The Eastern",
+   "title": "DJ Shadow",
+   "date": "2026-10-24",
+   "time": "20:00:00",
+   "url": "https://easternatl.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Coca-Cola Roxy",
+   "title": "EsDeeKid - Council House Rat Tour",
+   "date": "2026-10-24",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/esdeekid-council-house-rat-tour-atlanta-georgia-10-24-2026/event/0E0064F7E6D14C57",
+   "type": "concert"
+  },
+  {
+   "venue": "Buckhead Theatre",
+   "title": "EMEI - Night at the Opera Tour",
+   "date": "2026-10-24",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/emei-night-at-the-opera-tour-atlanta-georgia-10-24-2026/event/0E006495B6F3E247",
+   "type": "concert"
+  },
+  {
+   "venue": "Variety Playhouse",
+   "title": "Greyboy Allstars",
+   "date": "2026-10-24",
+   "time": "20:00:00",
+   "url": "http://www.variety-playhouse.com",
+   "type": "concert"
+  },
+  {
+   "venue": "Center Stage",
+   "title": "John Violinist",
+   "date": "2026-10-24",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/john-violinist-atlanta-georgia-10-24-2026/event/0E00647AE4CEFDC2",
+   "type": "concert"
+  },
+  {
+   "venue": "The Loft",
+   "title": "Sueco",
+   "date": "2026-10-24",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/sueco-atlanta-georgia-10-24-2026/event/0E0064EE95DE6878",
+   "type": "concert"
+  },
+  {
+   "venue": "Terminal West",
+   "title": "Chasing Abbey",
+   "date": "2026-10-24",
+   "time": "20:00:00",
+   "url": "http://terminalwestatl.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Aisle 5",
+   "title": "RaiNao",
+   "date": "2026-10-24",
+   "time": "20:00:00",
+   "url": "https://www.eventim.us/event/tickets/701080",
+   "type": "concert"
+  },
+  {
+   "venue": "State Farm Arena",
+   "title": "Atlanta Hawks vs. Houston Rockets",
+   "date": "2026-10-24",
+   "time": "20:30:00",
+   "url": "https://www.ticketmaster.com/atlanta-hawks-vs-houston-rockets-atlanta-georgia-10-24-2026/event/0E006505923451E7",
+   "type": "sports"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Club Slayyy | 18+",
+   "date": "2026-10-24",
+   "time": "21:00:00",
+   "url": "https://www.ticketmaster.com/club-slayyy-18-atlanta-georgia-10-24-2026/event/0E00653EDF3E71D8",
+   "type": "concert"
   }
  ]
 }
