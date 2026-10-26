@@ -22,6 +22,7 @@ import { fixLinks } from './links.mjs';
 import { calmTitle, isNotice } from './titles.mjs';
 import { applySchedules } from './schedules.mjs';
 import { slugify, BADGE_FEEDS, TEAMS, CITY } from './badges.mjs';
+import { tmFetch } from './tm-fetch.mjs';
 
 const JSON_OUT = new URL('../site/events.json', import.meta.url);
 const ICS_OUT = new URL('../site/events.ics', import.meta.url);
@@ -95,7 +96,7 @@ async function tmPages(params, label) {
     let res;
     for (let attempt = 0; ; attempt++) { // a second between calls, five seconds after a 429 (the key is shared by every city's build)
       await new Promise((r) => setTimeout(r, TM_PACE_MS));
-      res = await fetch(`https://app.ticketmaster.com/discovery/v2/events.json?${q}`);
+      res = await tmFetch(`https://app.ticketmaster.com/discovery/v2/events.json?${q}`);
       if (res.status !== 429 || attempt >= 5) break;
       await new Promise((r) => setTimeout(r, 5000));
     }
