@@ -83,6 +83,7 @@
   var VENUES = {
     // --- Downtown and the stadiums: the arena, the two stadiums and the ballpark, the Fox, Symphony Hall, Cobb Energy, Gas South, Gateway Center and Georgia Tech's grounds ---
     'State Farm Arena': {
+      geo: [33.7578, -84.39457],
       capacity: 16600,
       type: 'concert',
       cssVar: '--v-sfa',
@@ -93,6 +94,7 @@
       alias: /state farm arena/i,
     },
     'Mercedes-Benz Stadium': {
+      geo: [33.75539, -84.40082],
       capacity: 71000,
       type: 'sports',
       cssVar: '--v-mbs',
@@ -103,6 +105,7 @@
       alias: /mercedes-?benz stadium/i,
     },
     'Truist Park': {
+      geo: [33.8903, -84.46813],
       capacity: 41084,
       type: 'sports',
       cssVar: '--v-truist',
@@ -113,6 +116,7 @@
       alias: /truist park/i,
     },
     'Fox Theatre': {
+      geo: [33.77264, -84.38507],
       capacity: 4665,
       type: 'concert',
       cssVar: '--v-fox',
@@ -123,6 +127,7 @@
       alias: /fox theatre/i,
     },
     'Atlanta Symphony Hall': {
+      geo: [33.7901, -84.38549],
       capacity: 1762,
       type: 'arts',
       cssVar: '--v-aso',
@@ -133,6 +138,7 @@
       alias: /atlanta symphony hall/i,
     },
     'Cobb Energy Centre': {
+      geo: [33.88443, -84.45836],
       capacity: 2750,
       type: 'arts',
       cssVar: '--v-cobb',
@@ -143,6 +149,7 @@
       alias: /cobb energy/i,
     },
     'Gas South Arena': {
+      geo: [33.98692, -84.09073],
       capacity: 13000,
       type: 'concert',
       cssVar: '--v-gassouth',
@@ -153,6 +160,7 @@
       alias: /gas south/i,
     },
     'Gateway Center Arena': {
+      geo: [33.64558, -84.45748],
       capacity: 5000,
       type: 'sports',
       cssVar: '--v-gateway',
@@ -163,6 +171,7 @@
       alias: /gateway center/i,
     },
     'Bobby Dodd Stadium': {
+      geo: [33.77394, -84.3957],
       capacity: 55000,
       type: 'sports',
       cssVar: '--v-dodd',
@@ -173,6 +182,7 @@
       alias: /bobby dodd/i,
     },
     'McCamish Pavilion': {
+      geo: [33.78065, -84.39276],
       capacity: 8600,
       type: 'sports',
       cssVar: '--v-mccamish',
@@ -184,6 +194,7 @@
     },
     // --- Music rooms and around (`area: 'town'`): the Tabernacle and the clubs from Midtown to Little Five Points and Decatur, then the amphitheatres ---
     'Tabernacle': {
+      geo: [33.75869, -84.39145],
       area: 'town',
       capacity: 2600,
       type: 'concert',
@@ -195,6 +206,7 @@
       alias: /tabernacle/i,
     },
     'The Eastern': {
+      geo: [33.74594, -84.36099],
       area: 'town',
       capacity: 2200,
       type: 'concert',
@@ -206,6 +218,7 @@
       alias: /^the eastern$/i,
     },
     'Coca-Cola Roxy': {
+      geo: [33.89024, -84.46972],
       area: 'town',
       capacity: 3600,
       type: 'concert',
@@ -217,6 +230,7 @@
       alias: /coca-?cola roxy/i,
     },
     'Buckhead Theatre': {
+      geo: [33.84023, -84.37954],
       area: 'town',
       capacity: 1800,
       type: 'concert',
@@ -228,6 +242,7 @@
       alias: /buckhead theat/i,
     },
     'Variety Playhouse': {
+      geo: [33.76352, -84.35094],
       area: 'town',
       capacity: 1000,
       type: 'concert',
@@ -239,6 +254,7 @@
       alias: /variety playhouse/i,
     },
     'The Masquerade': {
+      geo: [33.75177, -84.38968],
       area: 'town',
       capacity: 1000,
       type: 'concert',
@@ -250,6 +266,7 @@
       alias: /masquerade/i,
     },
     'Center Stage': {
+      geo: [33.79189, -84.38779],
       area: 'town',
       capacity: 1050,
       type: 'concert',
@@ -261,6 +278,7 @@
       alias: /^center stage/i,
     },
     'The Loft': {
+      geo: [33.79189, -84.38779],
       area: 'town',
       capacity: 550,
       type: 'concert',
@@ -272,6 +290,7 @@
       alias: /^the loft$/i,
     },
     'Vinyl': {
+      geo: [33.79189, -84.38779],
       area: 'town',
       capacity: 300,
       type: 'concert',
@@ -283,6 +302,7 @@
       alias: /^vinyl$/i,
     },
     'Terminal West': {
+      geo: [33.78254, -84.41643],
       area: 'town',
       capacity: 650,
       type: 'concert',
@@ -294,6 +314,7 @@
       alias: /terminal west/i,
     },
     'Believe Music Hall': {
+      geo: [33.7372, -84.39371],
       area: 'town',
       capacity: 1300,
       type: 'concert',
@@ -305,6 +326,7 @@
       alias: /believe music hall/i,
     },
     'Aisle 5': {
+      geo: [33.76427, -84.35022],
       area: 'town',
       capacity: 300,
       type: 'concert',
@@ -316,6 +338,7 @@
       alias: /aisle 5/i,
     },
     "Smith's Olde Bar": {
+      geo: [33.79759, -84.36877],
       area: 'town',
       capacity: 300,
       type: 'concert',
@@ -327,6 +350,7 @@
       alias: /smith'?s olde bar/i,
     },
     "Eddie's Attic": {
+      geo: [33.77398, -84.29627],
       area: 'town',
       capacity: 185,
       type: 'concert',
@@ -338,6 +362,7 @@
       alias: /eddie'?s attic/i,
     },
     'Lakewood Amphitheatre': {
+      geo: [33.70403, -84.39603],
       area: 'town',
       capacity: 19000,
       type: 'concert',
@@ -349,6 +374,7 @@
       alias: /lakewood amphitheat|cellairis/i,
     },
     'Ameris Bank Amphitheatre': {
+      geo: [34.05442, -84.30668],
       area: 'town',
       capacity: 12000,
       type: 'concert',
@@ -360,6 +386,7 @@
       alias: /ameris bank amphitheat/i,
     },
     'Chastain Park': {
+      geo: [33.87688, -84.39722],
       area: 'town',
       capacity: 6900,
       type: 'concert',
@@ -421,6 +448,20 @@
     ics: { name: 'Atlanta Events', short: 'Atlanta Events', teams: 'Atlanta home teams — every season', prodid: '-//here.events//atlanta-events//EN', uidDomain: 'fosdal.net', // the UID domain the whole family issues (the shared ics test pins it)
       desc: 'Upcoming events around Atlanta\\, GA — State Farm Arena\\, Mercedes-Benz Stadium\\, Truist Park\\, the Fox Theatre and the music rooms' },
     teams: TEAMS,
+    map: { // the Map view (local-map.js; the ground drawn once by scripts/build-local-map.mjs from OpenStreetMap, committed as site/local-map.json) — every city gets one, Steve, 2026-10-26
+      kind: 'urban',
+      bbox: [33.584, -84.527, 34.116, -84.034], // south, west, north, east — every room, with a margin
+      home: [33.584, -84.489, 33.951, -84.364], // the view at first: the city's own rooms; the fit button shows the whole frame
+      roads: ['motorway', 'trunk', 'primary'],
+      tolerance: 0.8,
+      labels: [
+        { name: 'Atlanta', lat: 33.749, lon: -84.388, anchor: 'middle' },
+        { name: 'Duluth', lat: 34.00286, lon: -84.1441, anchor: 'middle' },
+        { name: 'College Park', lat: 33.65344, lon: -84.44937, anchor: 'middle' },
+        { name: 'Decatur', lat: 33.77376, lon: -84.29607, anchor: 'middle' },
+        { name: 'Alpharetta', lat: 34.0756, lon: -84.2946, anchor: 'middle' },
+      ],
+    },
     venues: VENUES,
     defaultOn: DEFAULT_ON,
     defaultOff: DEFAULT_OFF,
