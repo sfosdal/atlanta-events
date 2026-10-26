@@ -1525,6 +1525,140 @@
    "time": "21:00:00",
    "url": "https://www.ticketmaster.com/club-slayyy-18-atlanta-georgia-10-24-2026/event/0E00653EDF3E71D8",
    "type": "concert"
+  },
+  {
+   "venue": "Mercedes-Benz Stadium",
+   "title": "Atlanta Falcons v San Francisco 49ers",
+   "date": "2026-10-25",
+   "time": "13:00:00",
+   "url": "https://www.ticketmaster.com/atlanta-falcons-v-san-francisco-49ers-atlanta-georgia-10-25-2026/event/0E00647F8E346E85",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "Fox"
+    ]
+   }
+  },
+  {
+   "venue": "McCamish Pavilion",
+   "title": "Georgia Tech Yellow Jackets Womens Volleyball vs. SMU Mustangs Womens Volleyball",
+   "date": "2026-10-25",
+   "time": "13:00:00",
+   "url": "https://ramblinwreck.com/sports/m-baskbl/schedule/",
+   "type": "sports"
+  },
+  {
+   "venue": "Atlanta Symphony Hall",
+   "title": "Halloween, Hogwarts & More",
+   "date": "2026-10-25",
+   "time": "13:30:00",
+   "url": "https://www.ticketmaster.com/halloween-hogwarts-more-atlanta-georgia-10-25-2026/event/0E0064FCCEA4C3F9",
+   "type": "arts"
+  },
+  {
+   "venue": "Atlanta Symphony Hall",
+   "title": "Halloween, Hogwarts & More",
+   "date": "2026-10-25",
+   "time": "15:00:00",
+   "url": "https://www.ticketmaster.com/halloween-hogwarts-more-atlanta-georgia-10-25-2026/event/0E0064FCCEA5C401",
+   "type": "arts"
+  },
+  {
+   "venue": "Variety Playhouse",
+   "title": "Robby Hoffman",
+   "date": "2026-10-25",
+   "time": "16:30:00",
+   "url": "http://www.variety-playhouse.com",
+   "type": "arts"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "An Evening with Kristy Lee & Garrison Starr",
+   "date": "2026-10-25",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/an-evening-with-kristy-lee-garrison-decatur-georgia-10-25-2026/event/0E0064E2D2E2CD6B",
+   "type": "concert"
+  },
+  {
+   "venue": "Cobb Energy Centre",
+   "title": "Skyline Lounge - Indigo Girls",
+   "date": "2026-10-25",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/skyline-lounge-indigo-girls-atlanta-georgia-10-25-2026/event/0E0064ADA640E3D8",
+   "age21": true
+  },
+  {
+   "venue": "Cobb Energy Centre",
+   "title": "Indigo Girls with Linda Perry",
+   "date": "2026-10-25",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/indigo-girls-with-linda-perry-atlanta-georgia-10-25-2026/event/0E0064ADA63AE3C8",
+   "type": "concert"
+  },
+  {
+   "venue": "Coca-Cola Roxy",
+   "title": "The Nxt Awards 2026 Powered By Now Thats Tv",
+   "date": "2026-10-25",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/the-nxt-awards-2026-powered-by-atlanta-georgia-10-25-2026/event/0E00653C9B83779A"
+  },
+  {
+   "venue": "Buckhead Theatre",
+   "title": "20 Years of Nekrogoblikon with Special Guests Aborted",
+   "date": "2026-10-25",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/20-years-of-nekrogoblikon-with-special-atlanta-georgia-10-25-2026/event/0E0064C2272944F2",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Ian McConnell",
+   "date": "2026-10-25",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/ian-mcconnell-atlanta-georgia-10-25-2026/event/0E0064C5D82634ED",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "The Hails - Duckpond Tour",
+   "date": "2026-10-25",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/the-hails-duckpond-tour-atlanta-georgia-10-25-2026/event/0E0064D6E685D61C",
+   "type": "concert"
+  },
+  {
+   "venue": "Variety Playhouse",
+   "title": "Robby Hoffman",
+   "date": "2026-10-25",
+   "time": "19:30:00",
+   "url": "http://www.variety-playhouse.com",
+   "type": "arts"
+  },
+  {
+   "venue": "Center Stage",
+   "title": "Raphael Ghanem a carne so cai no prato do vegano",
+   "date": "2026-10-25",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/raphael-ghanem-a-carne-so-cai-atlanta-georgia-10-25-2026/event/0E0064BCAC70B673",
+   "type": "arts"
+  },
+  {
+   "venue": "The Loft",
+   "title": "Kidd G: The Forever Bender Tour",
+   "date": "2026-10-25",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/kidd-g-the-forever-bender-tour-atlanta-georgia-10-25-2026/event/0E0064F8BBE0AA4D",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-10-12T01:47:18.491Z"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "SUSTO: A Solo Show Live at Eddie's Attic w/ The Wire Jays",
+   "date": "2026-10-25",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/susto-a-solo-show-live-at-decatur-georgia-10-25-2026/event/0E00652ADBF2317A",
+   "type": "concert"
   }
  ]
 }
