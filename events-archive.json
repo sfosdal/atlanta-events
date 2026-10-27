@@ -1659,6 +1659,22 @@
    "time": "20:00:00",
    "url": "https://www.ticketmaster.com/susto-a-solo-show-live-at-decatur-georgia-10-25-2026/event/0E00652ADBF2317A",
    "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Like Roses",
+   "date": "2026-10-26",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/like-roses-atlanta-georgia-10-26-2026/event/0E006514CE782824",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Hit Like a Girl",
+   "date": "2026-10-26",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/hit-like-a-girl-atlanta-georgia-10-26-2026/event/0E0064F0BF0BCFC6",
+   "type": "concert"
   }
  ]
 }
