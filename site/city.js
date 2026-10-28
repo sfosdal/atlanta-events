@@ -91,6 +91,7 @@
       url: 'https://www.statefarmarena.com/events',
       icon: 'https://www.google.com/s2/favicons?domain=www.statefarmarena.com&sz=128',
       tm: { id: 'KovZpa2Xke', match: "state farm arena", fallbackUrl: 'https://www.statefarmarena.com/events', exclude: /parking|tour/i },
+      feed: { kind: 'rss', secondary: true, url: 'https://www.statefarmarena.com/events/rss', drop: /^hawks vs|atlanta dream|preferred seating|forkside|parking|\btours?\b/i }, // the arena's own listing (carbonhouse RSS: concerts, family shows, the Hawks' games left to Teams), secondary behind Ticketmaster (2026-10-27)
       alias: /state farm arena/i,
     },
     'Mercedes-Benz Stadium': {
@@ -102,6 +103,9 @@
       url: 'https://mercedesbenzstadium.com/events/',
       icon: 'https://www.google.com/s2/favicons?domain=mercedesbenzstadium.com&sz=128',
       tm: { id: 'KovZpZAEdJaA', match: "mercedes-benz stadium", fallbackUrl: 'https://mercedesbenzstadium.com/events/', exclude: /parking|tour/i },
+      feed: { kind: 'cards', secondary: true, url: 'https://mercedesbenzstadium.com/events/', drop: /\bfalcons\b|atlanta united/i,
+        item: /<div role="listitem" class="events--item w-dyn-item">/, title: /(?=[\s\S]*?<a href="([^"]+)" class="btn--3 w-inline-block"><div>Event Details)<h3 fs-cmsfilter-field="name">\s*([\s\S]*?)\s*<\/h3>/, // the card's h3 and its Event Details link (which follows the title, hence the lookahead)
+        when: /fs-cmsfilter-field="date" class="events_feature_details_dt">([^<]*)<[\s\S]*?fs-cmsfilter-field="time" class="events_feature_details_dt">([^<]*)</ }, // the stadium's own Webflow calendar (concerts, bowls, the Super Bowl; TBA clocks become all-day rows; the Falcons' and United's games left to Teams), secondary behind Ticketmaster (2026-10-27)
       alias: /mercedes-?benz stadium/i,
     },
     'Truist Park': {
@@ -124,6 +128,7 @@
       url: 'https://www.foxtheatre.org/events',
       icon: 'https://www.google.com/s2/favicons?domain=www.foxtheatre.org&sz=128',
       tm: { id: 'KovZpZAdnvEA', match: "fox theatre", fallbackUrl: 'https://www.foxtheatre.org/events', exclude: /tour/i },
+      feed: { kind: 'rss', secondary: true, url: 'https://www.foxtheatre.org/events/rss', drop: /\btours?\b/i }, // the Fox's own listing (carbonhouse RSS, one item per show), secondary behind Ticketmaster (2026-10-27)
       alias: /fox theatre/i,
     },
     'Atlanta Symphony Hall': {
@@ -135,6 +140,7 @@
       url: 'https://www.aso.org/events',
       icon: 'https://www.google.com/s2/favicons?domain=www.aso.org&sz=128',
       tm: { id: 'KovZpZAJedlA', match: "symphony hall", fallbackUrl: 'https://www.aso.org/events', exclude: /garage|parking/i }, // the ASO lists its parking deck as a second "show" every night
+      feed: { kind: 'rss', secondary: true, url: 'https://www.aso.org/events/rss', venues: /^atlanta symphony hall$/i, drop: /pre-concert|garage|parking/i }, // the ASO's own listing (carbonhouse RSS; the Goizueta Stage and the galleries kept out, the pre-concert lectures too), secondary behind Ticketmaster (2026-10-27)
       alias: /atlanta symphony hall/i,
     },
     'Cobb Energy Centre': {
@@ -146,6 +152,7 @@
       url: 'https://www.cobbenergycentre.com/events',
       icon: 'https://www.google.com/s2/favicons?domain=www.cobbenergycentre.com&sz=128',
       tm: { id: 'KovZpa3j7e', match: "cobb energy", fallbackUrl: 'https://www.cobbenergycentre.com/events' },
+      feed: { kind: 'rss', secondary: true, url: 'https://www.cobbenergycentre.com/events/rss' }, // the centre's own listing (carbonhouse RSS), secondary behind Ticketmaster (2026-10-27)
       alias: /cobb energy/i,
     },
     'Gas South Arena': {
@@ -157,6 +164,7 @@
       url: 'https://www.gassouthdistrict.com/events',
       icon: 'https://www.google.com/s2/favicons?domain=www.gassouthdistrict.com&sz=128',
       tm: { id: 'KovZpZAEkdvA,Z6r9jZ6aFe', match: "gas south", fallbackUrl: 'https://www.gassouthdistrict.com/events', exclude: /parking/i },
+      feed: { kind: 'rss', secondary: true, url: 'https://www.gassouthdistrict.com/events/rss', venues: /gas south (?:arena|theater)/i, drop: /parking/i }, // the district's own listing (carbonhouse RSS; the Arena's and the Theater's items, the convention center's kept out), secondary behind Ticketmaster (2026-10-27)
       alias: /gas south/i,
     },
     'Gateway Center Arena': {
@@ -168,6 +176,7 @@
       url: 'https://www.gatewaycenterarena.com/events',
       icon: 'https://www.google.com/s2/favicons?domain=www.gatewaycenterarena.com&sz=128',
       tm: { id: 'KovZ917A-mZ', match: "gateway center", fallbackUrl: 'https://www.gatewaycenterarena.com/events' },
+      feed: { kind: 'tribe', secondary: true, url: 'https://www.gatewaycenterarena.com/wp-json/tribe/events/v1/events', drop: /atlanta dream/i }, // the arena's own calendar (The Events Calendar: the Skyhawks' G League games and the rest; the Dream's games left to Teams), secondary behind Ticketmaster (2026-10-27)
       alias: /gateway center/i,
     },
     'Bobby Dodd Stadium': {
@@ -203,6 +212,7 @@
       url: 'https://www.tabernacleatl.com/',
       icon: 'https://www.google.com/s2/favicons?domain=www.tabernacleatl.com&sz=128',
       tm: { id: 'KovZpaFEZe', match: "tabernacle", fallbackUrl: 'https://www.tabernacleatl.com/' },
+      feed: { kind: 'jsonld', secondary: true, url: 'https://www.tabernacleatl.com/shows', drop: /\b\d-day (?:pass|ticket)|season tickets? waitlist|waitlist|parking/i }, // Live Nation's venue page marks its shows up as schema.org events (36 at a time; the 2-day bundles dropped), secondary behind Ticketmaster (2026-10-27)
       alias: /tabernacle/i,
     },
     'The Eastern': {
@@ -214,7 +224,8 @@
       color: '#d5ea86',
       url: 'https://www.easternatl.com/',
       icon: 'https://www.google.com/s2/favicons?domain=www.easternatl.com&sz=128',
-      tm: { id: 'KovZ917AYK-', match: "the eastern", fallbackUrl: 'https://www.easternatl.com/' },
+      tm: { id: 'KovZ917AYK-', match: "the eastern", fallbackUrl: 'https://www.easternatl.com/', secondary: true },
+      feed: { kind: 'aeg', url: 'https://aegwebprod.blob.core.windows.net/json/events/127/events.json' }, // AEG Presents' events blob for the venue (the data-file of its site's c-axs-events block; statuses Cancelled / Sold Out / Coming Soon) — leads, Ticketmaster secondary (2026-10-27)
       alias: /^the eastern$/i,
     },
     'Coca-Cola Roxy': {
@@ -227,6 +238,7 @@
       url: 'https://www.cocacolaroxy.com/',
       icon: 'https://www.google.com/s2/favicons?domain=www.cocacolaroxy.com&sz=128',
       tm: { id: 'KovZ917ACc7', match: "roxy", fallbackUrl: 'https://www.cocacolaroxy.com/' },
+      feed: { kind: 'jsonld', secondary: true, url: 'https://www.cocacolaroxy.com/shows', drop: /\b\d-day (?:pass|ticket)|season tickets? waitlist|waitlist|parking/i }, // Live Nation's venue page marks its shows up as schema.org events (36 at a time), secondary behind Ticketmaster (2026-10-27)
       alias: /coca-?cola roxy/i,
     },
     'Buckhead Theatre': {
@@ -239,6 +251,7 @@
       url: 'https://www.thebuckheadtheatre.com/',
       icon: 'https://www.google.com/s2/favicons?domain=www.thebuckheadtheatre.com&sz=128',
       tm: { id: 'KovZpZAJAllA', match: "buckhead theatre", fallbackUrl: 'https://www.thebuckheadtheatre.com/' },
+      feed: { kind: 'jsonld', secondary: true, url: 'https://www.thebuckheadtheatre.com/shows', drop: /\b\d-day (?:pass|ticket)|season tickets? waitlist|waitlist|parking/i }, // Live Nation's venue page marks its shows up as schema.org events (36 at a time), secondary behind Ticketmaster (2026-10-27)
       alias: /buckhead theat/i,
     },
     'Variety Playhouse': {
@@ -250,7 +263,8 @@
       color: '#86ea8e',
       url: 'https://www.variety-playhouse.com/',
       icon: 'https://www.google.com/s2/favicons?domain=www.variety-playhouse.com&sz=128',
-      tm: { id: 'KovZpa3Qne', match: "variety playhouse", fallbackUrl: 'https://www.variety-playhouse.com/' },
+      tm: { id: 'KovZpa3Qne', match: "variety playhouse", fallbackUrl: 'https://www.variety-playhouse.com/', secondary: true },
+      feed: { kind: 'aeg', url: 'https://aegwebprod.blob.core.windows.net/json/events/214/events.json' }, // AEG Presents' events blob for the venue — leads, Ticketmaster secondary (2026-10-27)
       alias: /variety playhouse/i,
     },
     'The Masquerade': {
@@ -263,6 +277,9 @@
       url: 'https://www.masqueradeatlanta.com/',
       icon: 'https://www.google.com/s2/favicons?domain=www.masqueradeatlanta.com&sz=128',
       tm: { id: 'KovZpa2WHe,KovZ917AOz0,KovZ917AOzm,KovZ917AmQG', match: "masquerade", fallbackUrl: 'https://www.masqueradeatlanta.com/' },
+      feed: { kind: 'cards', secondary: true, url: 'https://www.masqueradeatlanta.com/events/',
+        item: /<article class="event" role="article">/, title: /<a class="wrapperLink" href="([^"]+)"[\s\S]*?<h2 class="eventHeader__title js-listTitle" itemprop="name">([\s\S]*?)<\/h2>/,
+        when: /class="eventStartDate" itemprop="startDate" content="([^"]*)"/, place: /<p class="event__location-room">([\s\S]*?)<\/p>/, venues: /\bat the masquerade\b/i }, // the club's own listing (every stage — Heaven, Hell, Purgatory, Altar — on one page; the shows it promotes at the Tabernacle, Terminal West and the rest are "Other Location" cards, kept out by `venues`; its clock is the doors clock, the only one it prints), secondary behind Ticketmaster, whose rows carry the show clock (2026-10-27)
       alias: /masquerade/i,
     },
     'Center Stage': {
@@ -275,6 +292,8 @@
       url: 'https://www.centerstage-atlanta.com/',
       icon: 'https://www.google.com/s2/favicons?domain=www.centerstage-atlanta.com&sz=128',
       tm: { id: 'KovZpZAFF1tA', match: "center stage", fallbackUrl: 'https://www.centerstage-atlanta.com/' },
+      feed: { kind: 'cards', secondary: true, url: 'https://www.centerstage-atlanta.com/wp-json/centerstage/v2/events/?venue=center_stage&page=1',
+        item: /\{"title":/, title: /^(?=[\s\S]*?"permalink":"([^"]+)")(?=[\s\S]*?"show_status":\{"value":"(?!Cancelled))"((?:[^"\\]|\\.)*)"/, when: /"event_date_short":"([^"]*)"[\s\S]*?"show_time":"([^"]*)"/ }, // the complex's own listing endpoint (the theme's REST route, read as text: 20 shows a page per venue, show clock, cancelled ones left out), secondary behind Ticketmaster (2026-10-27)
       alias: /^center stage/i,
     },
     'The Loft': {
@@ -287,6 +306,8 @@
       url: 'https://www.centerstage-atlanta.com/',
       icon: 'https://www.google.com/s2/favicons?domain=www.centerstage-atlanta.com&sz=128',
       tm: { id: 'KovZpZA1tn1A', match: "the loft", fallbackUrl: 'https://www.centerstage-atlanta.com/' },
+      feed: { kind: 'cards', secondary: true, url: 'https://www.centerstage-atlanta.com/wp-json/centerstage/v2/events/?venue=the_loft&page=1',
+        item: /\{"title":/, title: /^(?=[\s\S]*?"permalink":"([^"]+)")(?=[\s\S]*?"show_status":\{"value":"(?!Cancelled))"((?:[^"\\]|\\.)*)"/, when: /"event_date_short":"([^"]*)"[\s\S]*?"show_time":"([^"]*)"/ }, // Center Stage's listing endpoint, the Loft's page, secondary behind Ticketmaster (2026-10-27)
       alias: /^the loft$/i,
     },
     'Vinyl': {
@@ -299,6 +320,8 @@
       url: 'https://www.centerstage-atlanta.com/',
       icon: 'https://www.google.com/s2/favicons?domain=www.centerstage-atlanta.com&sz=128',
       tm: { id: 'KovZpZA1lJ7A', match: "vinyl", fallbackUrl: 'https://www.centerstage-atlanta.com/' },
+      feed: { kind: 'cards', secondary: true, url: 'https://www.centerstage-atlanta.com/wp-json/centerstage/v2/events/?venue=vinyl&page=1',
+        item: /\{"title":/, title: /^(?=[\s\S]*?"permalink":"([^"]+)")(?=[\s\S]*?"show_status":\{"value":"(?!Cancelled))"((?:[^"\\]|\\.)*)"/, when: /"event_date_short":"([^"]*)"[\s\S]*?"show_time":"([^"]*)"/ }, // Center Stage's listing endpoint, Vinyl's page, secondary behind Ticketmaster (2026-10-27)
       alias: /^vinyl$/i,
     },
     'Terminal West': {
@@ -310,7 +333,8 @@
       color: '#b3ea86',
       url: 'https://www.terminalwestatl.com/',
       icon: 'https://www.google.com/s2/favicons?domain=www.terminalwestatl.com&sz=128',
-      tm: { id: 'KovZpZAJnI1A', match: "terminal west", fallbackUrl: 'https://www.terminalwestatl.com/' },
+      tm: { id: 'KovZpZAJnI1A', match: "terminal west", fallbackUrl: 'https://www.terminalwestatl.com/', secondary: true },
+      feed: { kind: 'aeg', url: 'https://aegwebprod.blob.core.windows.net/json/events/211/events.json' }, // AEG Presents' events blob for the venue — leads, Ticketmaster secondary (2026-10-27)
       alias: /terminal west/i,
     },
     'Believe Music Hall': {
@@ -358,7 +382,8 @@
       color: '#cd86ea',
       url: 'https://www.eddiesattic.com/',
       icon: 'https://www.google.com/s2/favicons?domain=www.eddiesattic.com&sz=128',
-      tm: { id: 'KovZ917A8f0', match: "eddie's attic", fallbackUrl: 'https://www.eddiesattic.com/' },
+      tm: { id: 'KovZ917A8f0', match: "eddie's attic", fallbackUrl: 'https://www.eddiesattic.com/', secondary: true },
+      feed: { kind: 'plot', url: 'https://www.eddiesattic.com/api/plot/v1/listings?listingsPerPage=200' }, // the club's Plot listings JSON (two seatings a night, DICE links) — leads, Ticketmaster secondary (2026-10-27)
       alias: /eddie'?s attic/i,
     },
     'Lakewood Amphitheatre': {
@@ -383,6 +408,7 @@
       url: 'https://www.amerisbankamphitheatre.com/',
       icon: 'https://www.google.com/s2/favicons?domain=www.amerisbankamphitheatre.com&sz=128',
       tm: { id: 'KovZpZAFFdlA', match: "ameris", fallbackUrl: 'https://www.amerisbankamphitheatre.com/', exclude: /parking/i },
+      feed: { kind: 'jsonld', secondary: true, url: 'https://www.amerisbankamphitheatre.com/shows', drop: /\b\d-day (?:pass|ticket)|season tickets? waitlist|waitlist|parking/i }, // Live Nation's venue page marks its shows up as schema.org events (the 2-day bundles and the season-ticket waitlist, dated midnight, dropped), secondary behind Ticketmaster (2026-10-27)
       alias: /ameris bank amphitheat/i,
     },
     'Chastain Park': {
