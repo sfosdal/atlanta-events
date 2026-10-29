@@ -1759,6 +1759,129 @@
    "time": "20:00:00",
    "url": "https://www.ticketmaster.com/jailen-josey-atlanta-georgia-10-27-2026/event/0E0064D603DBF99E",
    "type": "concert"
+  },
+  {
+   "venue": "Atlanta Symphony Hall",
+   "title": "Students at the Symphony with the Atlanta Symphony Orchestra",
+   "date": "2026-10-28",
+   "time": "10:15:00",
+   "url": "https://www.ticketmaster.com/students-at-the-symphony-with-the-atlanta-georgia-10-28-2026/event/0E00649CCAE29BC4",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-10-12T01:47:18.491Z"
+  },
+  {
+   "venue": "Atlanta Symphony Hall",
+   "title": "Students at the Symphony with the Atlanta Symphony Orchestra",
+   "date": "2026-10-28",
+   "time": "11:45:00",
+   "url": "https://www.ticketmaster.com/students-at-the-symphony-with-the-atlanta-georgia-10-28-2026/event/0E00649CCAE79BCC",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-10-14T20:41:18.320Z"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "GWAR",
+   "date": "2026-10-28",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/gwar-atlanta-georgia-10-28-2026/event/0E00649BC8DC3BB0",
+   "type": "concert"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Jackie Evans w/ Elli Rowe",
+   "date": "2026-10-28",
+   "time": "19:00",
+   "url": "https://eddiesattic.com/event/jackie-evans/",
+   "type": "concert"
+  },
+  {
+   "venue": "State Farm Arena",
+   "title": "Atlanta Hawks vs. Miami Heat",
+   "date": "2026-10-28",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/atlanta-hawks-vs-miami-heat-atlanta-georgia-10-28-2026/event/0E006505923A5203",
+   "type": "sports"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Flagman",
+   "date": "2026-10-28",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/flagman-atlanta-georgia-10-28-2026/event/0E006521C454CCFC",
+   "type": "concert"
+  },
+  {
+   "venue": "Fox Theatre",
+   "title": "Buena Vista Social Club",
+   "date": "2026-10-28",
+   "time": "19:30:00",
+   "url": "https://www.foxtheatre.org/"
+  },
+  {
+   "venue": "Terminal West",
+   "title": "Friko",
+   "date": "2026-10-28",
+   "time": "20:00",
+   "url": "https://www.axs.com/events/1383413/friko-tickets",
+   "type": "concert"
+  },
+  {
+   "venue": "The Eastern",
+   "title": "Iron & Wine",
+   "date": "2026-10-28",
+   "time": "20:00",
+   "url": "https://www.axs.com/events/1317896/iron-wine-tickets",
+   "type": "concert"
+  },
+  {
+   "venue": "Variety Playhouse",
+   "title": "Osees ft. Brigid Dawson",
+   "date": "2026-10-28",
+   "time": "20:00",
+   "url": "https://www.axs.com/events/1475902/osees-ft-brigid-dawson-tickets",
+   "type": "concert"
+  },
+  {
+   "venue": "Tabernacle",
+   "title": "Night of the Living Drag",
+   "date": "2026-10-28",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/night-of-the-living-drag-atlanta-georgia-10-28-2026/event/0E00651AADE7CBDB",
+   "type": "arts"
+  },
+  {
+   "venue": "The Eastern",
+   "title": "Iron and Wine",
+   "date": "2026-10-28",
+   "time": "20:00:00",
+   "url": "https://easternatl.com/",
+   "type": "concert"
+  },
+  {
+   "venue": "Variety Playhouse",
+   "title": "Osees w/ Traps PS",
+   "date": "2026-10-28",
+   "time": "20:00:00",
+   "url": "http://www.variety-playhouse.com",
+   "type": "concert"
+  },
+  {
+   "venue": "Vinyl",
+   "title": "Low Cut Connie",
+   "date": "2026-10-28",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/low-cut-connie-atlanta-georgia-10-28-2026/event/0E0064919E8C9F5E",
+   "type": "concert"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Jesse Gold",
+   "date": "2026-10-28",
+   "time": "21:15",
+   "url": "https://eddiesattic.com/event/jesse-gold/",
+   "type": "concert"
   }
  ]
 }
