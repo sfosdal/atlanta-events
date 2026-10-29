@@ -14,6 +14,7 @@
  * (scripts/schedules.mjs). Ticketmaster calls are paced a second apart with
  * a 429 back-off (TM_PACE_MS): the key is shared by every here.events city.
  */
+import './failures.mjs'; // first: every outside call retried, the ones still failing written to failures.json (Steve, 2026-10-29)
 import { writeFileSync, readFileSync } from 'node:fs';
 import { buildIcs } from './ics.mjs';
 import { isChurch } from './sources.mjs';
