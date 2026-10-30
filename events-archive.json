@@ -1882,6 +1882,129 @@
    "time": "21:15",
    "url": "https://eddiesattic.com/event/jesse-gold/",
    "type": "concert"
+  },
+  {
+   "venue": "State Farm Arena",
+   "title": "WNBA Finals: Golden State Valkyries At Atlanta Dream - Game 6",
+   "date": "2026-10-29",
+   "time": "12:30:00",
+   "url": "https://www.ticketmaster.com/wnba-finals-golden-state-valkyries-at-atlanta-georgia-10-29-2026/event/0E00654DD30B54D9",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "USA Net",
+     "Peacock",
+     "E!",
+     "SYFY"
+    ]
+   }
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Frank Maza & Javier Limon Present: Back Then w/ Zen Armand",
+   "date": "2026-10-29",
+   "time": "18:45",
+   "url": "https://eddiesattic.com/event/frank-maza-featuring-javier-limon-present-back-then/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Madds Buckley 2026/2027 North American Tour",
+   "date": "2026-10-29",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/madds-buckley-20262027-north-american-tour-atlanta-georgia-10-29-2026/event/0E0064F4E22DE4E5",
+   "type": "concert"
+  },
+  {
+   "venue": "Fox Theatre",
+   "title": "Buena Vista Social Club",
+   "date": "2026-10-29",
+   "time": "19:30:00",
+   "url": "https://www.foxtheatre.org/"
+  },
+  {
+   "venue": "Cobb Energy Centre",
+   "title": "Lucy Darling Pre-Show Talkback",
+   "date": "2026-10-29",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/lucy-darling-preshow-talkback-atlanta-georgia-10-29-2026/event/0E00650AE075E683"
+  },
+  {
+   "venue": "Cobb Energy Centre",
+   "title": "Skyline Lounge Lucy Darling",
+   "date": "2026-10-29",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/skyline-lounge-lucy-darling-atlanta-georgia-10-29-2026/event/0E00650B8D565EDB",
+   "age21": true
+  },
+  {
+   "venue": "Cobb Energy Centre",
+   "title": "Lucy Darling: Halloween Spooktacular",
+   "date": "2026-10-29",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/lucy-darling-halloween-spooktacular-atlanta-georgia-10-29-2026/event/0E00650B8D4D5ECF",
+   "type": "arts"
+  },
+  {
+   "venue": "Variety Playhouse",
+   "title": "Mountain Grass Unit - Appalachian Smoke Tour",
+   "date": "2026-10-29",
+   "time": "20:00",
+   "url": "https://www.axs.com/events/1481025/mountain-grass-unit-appalachian-smoke-tour-tickets",
+   "type": "concert"
+  },
+  {
+   "venue": "Terminal West",
+   "title": "Ethan Regan",
+   "date": "2026-10-29",
+   "time": "20:00",
+   "url": "https://www.axs.com/events/1465647/ethan-regan-tickets",
+   "type": "concert"
+  },
+  {
+   "venue": "State Farm Arena",
+   "title": "Atlanta Hawks vs. Cleveland Cavaliers",
+   "date": "2026-10-29",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/atlanta-hawks-vs-cleveland-cavaliers-atlanta-georgia-10-29-2026/event/0E006505923E520C",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "NBA TV"
+    ]
+   }
+  },
+  {
+   "venue": "Gas South Arena",
+   "title": "Zach Top: Cold Beer & Country Music Tour 2026",
+   "date": "2026-10-29",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/zach-top-cold-beer-country-music-duluth-georgia-10-29-2026/event/0E0064B59805A5D2",
+   "type": "concert"
+  },
+  {
+   "venue": "Center Stage",
+   "title": "Jon B.",
+   "date": "2026-10-29",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/jon-b-atlanta-georgia-10-29-2026/event/0E0064D7D9A5ECD6",
+   "type": "concert"
+  },
+  {
+   "venue": "Vinyl",
+   "title": "Ouija Macc",
+   "date": "2026-10-29",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/ouija-macc-atlanta-georgia-10-29-2026/event/0E0064F5D249F5B8",
+   "type": "concert"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "The 4 Korners: Portal of Gold – 10th Anniversary Live Recording",
+   "date": "2026-10-29",
+   "time": "21:00",
+   "url": "https://eddiesattic.com/event/the-4-korners-portal-of-gold-10th-anniversary-live-recording/",
+   "type": "concert"
   }
  ]
 }
