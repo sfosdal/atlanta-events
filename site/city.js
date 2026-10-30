@@ -91,7 +91,7 @@
       url: 'https://www.statefarmarena.com/events',
       icon: 'https://www.google.com/s2/favicons?domain=www.statefarmarena.com&sz=128',
       tm: { id: 'KovZpa2Xke', match: "state farm arena", fallbackUrl: 'https://www.statefarmarena.com/events', exclude: /parking|tour/i },
-      feed: { kind: 'rss', secondary: true, url: 'https://www.statefarmarena.com/events/rss', drop: /^hawks vs|atlanta dream|preferred seating|forkside|parking|\btours?\b/i }, // the arena's own listing (carbonhouse RSS: concerts, family shows, the Hawks' games left to Teams), secondary behind Ticketmaster (2026-10-27)
+      feed: { kind: 'rss', secondary: true, url: 'https://www.statefarmarena.com/events/rss', chrome: true, drop: /^hawks vs|atlanta dream|preferred seating|forkside|parking|\btours?\b/i }, // the arena's own listing (carbonhouse RSS: concerts, family shows, the Hawks' games left to Teams), secondary behind Ticketmaster (2026-10-27)
       alias: /state farm arena/i,
     },
     'Mercedes-Benz Stadium': {
@@ -128,7 +128,7 @@
       url: 'https://www.foxtheatre.org/events',
       icon: 'https://www.google.com/s2/favicons?domain=www.foxtheatre.org&sz=128',
       tm: { id: 'KovZpZAdnvEA', match: "fox theatre", fallbackUrl: 'https://www.foxtheatre.org/events', exclude: /tour/i },
-      feed: { kind: 'rss', secondary: true, url: 'https://www.foxtheatre.org/events/rss', drop: /\btours?\b/i }, // the Fox's own listing (carbonhouse RSS, one item per show), secondary behind Ticketmaster (2026-10-27)
+      feed: { kind: 'rss', secondary: true, url: 'https://www.foxtheatre.org/events/rss', chrome: true, drop: /\btours?\b/i }, // the Fox's own listing (carbonhouse RSS, one item per show), secondary behind Ticketmaster (2026-10-27)
       alias: /fox theatre/i,
     },
     'Atlanta Symphony Hall': {
@@ -140,7 +140,7 @@
       url: 'https://www.aso.org/events',
       icon: 'https://www.google.com/s2/favicons?domain=www.aso.org&sz=128',
       tm: { id: 'KovZpZAJedlA', match: "symphony hall", fallbackUrl: 'https://www.aso.org/events', exclude: /garage|parking/i }, // the ASO lists its parking deck as a second "show" every night
-      feed: { kind: 'rss', secondary: true, url: 'https://www.aso.org/events/rss', venues: /^atlanta symphony hall$/i, drop: /pre-concert|garage|parking/i }, // the ASO's own listing (carbonhouse RSS; the Goizueta Stage and the galleries kept out, the pre-concert lectures too), secondary behind Ticketmaster (2026-10-27)
+      feed: { kind: 'rss', secondary: true, url: 'https://www.aso.org/events/rss', chrome: true, venues: /^atlanta symphony hall$/i, drop: /pre-concert|garage|parking/i }, // the ASO's own listing (carbonhouse RSS; the Goizueta Stage and the galleries kept out, the pre-concert lectures too), secondary behind Ticketmaster (2026-10-27)
       alias: /atlanta symphony hall/i,
     },
     'Cobb Energy Centre': {
@@ -152,7 +152,7 @@
       url: 'https://www.cobbenergycentre.com/events',
       icon: 'https://www.google.com/s2/favicons?domain=www.cobbenergycentre.com&sz=128',
       tm: { id: 'KovZpa3j7e', match: "cobb energy", fallbackUrl: 'https://www.cobbenergycentre.com/events' },
-      feed: { kind: 'rss', secondary: true, url: 'https://www.cobbenergycentre.com/events/rss' }, // the centre's own listing (carbonhouse RSS), secondary behind Ticketmaster (2026-10-27)
+      feed: { kind: 'rss', secondary: true, url: 'https://www.cobbenergycentre.com/events/rss', chrome: true }, // the centre's own listing (carbonhouse RSS), secondary behind Ticketmaster (2026-10-27)
       alias: /cobb energy/i,
     },
     'Gas South Arena': {
@@ -164,7 +164,7 @@
       url: 'https://www.gassouthdistrict.com/events',
       icon: 'https://www.google.com/s2/favicons?domain=www.gassouthdistrict.com&sz=128',
       tm: { id: 'KovZpZAEkdvA,Z6r9jZ6aFe', match: "gas south", fallbackUrl: 'https://www.gassouthdistrict.com/events', exclude: /parking/i },
-      feed: { kind: 'rss', secondary: true, url: 'https://www.gassouthdistrict.com/events/rss', venues: /gas south (?:arena|theater)/i, drop: /parking/i }, // the district's own listing (carbonhouse RSS; the Arena's and the Theater's items, the convention center's kept out), secondary behind Ticketmaster (2026-10-27)
+      feed: { kind: 'rss', secondary: true, url: 'https://www.gassouthdistrict.com/events/rss', chrome: true, venues: /gas south (?:arena|theater)/i, drop: /parking/i }, // the district's own listing (carbonhouse RSS; the Arena's and the Theater's items, the convention center's kept out), secondary behind Ticketmaster (2026-10-27)
       alias: /gas south/i,
     },
     'Gateway Center Arena': {

@@ -53,6 +53,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
+      - uses: astral-sh/setup-uv@v6   # uv runs scripts/cffi-fetch.py (curl_cffi: a Chrome TLS fingerprint) for the venue calendars on carbonhouse's edge, which answers GitHub's runners 406
       - name: Test
         run: node --test scripts/*.test.mjs
       - name: Fetch & aggregate events
