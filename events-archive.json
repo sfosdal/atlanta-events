@@ -2158,6 +2158,119 @@
    "time": "22:00:00",
    "url": "https://www.believeatl.com/",
    "type": "concert"
+  },
+  {
+   "venue": "Fox Theatre",
+   "title": "Buena Vista Social Club",
+   "date": "2026-10-31",
+   "time": "14:00:00",
+   "url": "https://www.foxtheatre.org/"
+  },
+  {
+   "venue": "Mercedes-Benz Stadium",
+   "title": "Invesco QQQ Atlanta Gridiron Classic",
+   "date": "2026-10-31",
+   "time": "15:30:00",
+   "url": "https://www.ticketmaster.com/invesco-qqq-atlanta-gridiron-classic-atlanta-georgia-10-31-2026/event/0E00647494478254",
+   "type": "sports"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Evening With – John Splithoff Stripped Tour",
+   "date": "2026-10-31",
+   "time": "18:00",
+   "url": "https://eddiesattic.com/event/evening-with-john-splithoff-stripped-tour-2/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "The Masquerade & Emo Nite Present: Dark Wave Comedy | 18+",
+   "date": "2026-10-31",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/the-masquerade-emo-nite-present-dark-atlanta-georgia-10-31-2026/event/0E006548C02BF76B",
+   "type": "arts"
+  },
+  {
+   "venue": "Fox Theatre",
+   "title": "Buena Vista Social Club",
+   "date": "2026-10-31",
+   "time": "19:30:00",
+   "url": "https://www.foxtheatre.org/"
+  },
+  {
+   "venue": "Terminal West",
+   "title": "Neal Francis with Sam Fribush Organ Trio",
+   "date": "2026-10-31",
+   "time": "20:00",
+   "url": "https://www.axs.com/events/1476158/neal-francis-with-sam-fribush-organ-trio-tickets",
+   "type": "concert"
+  },
+  {
+   "venue": "State Farm Arena",
+   "title": "Young Miko",
+   "date": "2026-10-31",
+   "time": "20:00",
+   "url": "https://www.statefarmarena.com/events/detail/young-miko-late-checkout-tour-tickets-atlanta-georgia-2026-10-31",
+   "type": "concert"
+  },
+  {
+   "venue": "Buckhead Theatre",
+   "title": "Yung Gravy: The Joyrider Tour",
+   "date": "2026-10-31",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/yung-gravy-the-joyrider-tour-atlanta-georgia-10-31-2026/event/0E0065130B045F64",
+   "type": "concert"
+  },
+  {
+   "venue": "Center Stage",
+   "title": "almost monday",
+   "date": "2026-10-31",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/almost-monday-atlanta-georgia-10-31-2026/event/0E0064D2B12C9FB8",
+   "type": "concert"
+  },
+  {
+   "venue": "Vinyl",
+   "title": "Sophie Truax",
+   "date": "2026-10-31",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/sophie-truax-atlanta-georgia-10-31-2026/event/0E0064DDCE21BD22",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-10-12T01:47:18.491Z"
+  },
+  {
+   "venue": "Chastain Park",
+   "title": "Steve Lacy: Oh yeah? Tour",
+   "date": "2026-10-31",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/steve-lacy-oh-yeah-tour-atlanta-georgia-10-31-2026/event/0E006504BBA6A21B",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Emo Nite",
+   "date": "2026-10-31",
+   "time": "21:00",
+   "url": "https://www.masqueradeatlanta.com/events/emo-nite-2/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Loft",
+   "title": "The Jumpoff: Scary Hours",
+   "date": "2026-10-31",
+   "time": "21:00:00",
+   "url": "https://www.ticketmaster.com/the-jumpoff-scary-hours-atlanta-georgia-10-31-2026/event/0E006548B49ADA7C",
+   "age21": true,
+   "type": "arts"
+  },
+  {
+   "venue": "Vinyl",
+   "title": "Hero the Band",
+   "date": "2026-10-31",
+   "time": "21:00:00",
+   "url": "https://www.ticketmaster.com/hero-the-band-atlanta-georgia-10-31-2026/event/0E0065389E69B827",
+   "type": "concert"
   }
  ]
 }
