@@ -2271,6 +2271,94 @@
    "time": "21:00:00",
    "url": "https://www.ticketmaster.com/hero-the-band-atlanta-georgia-10-31-2026/event/0E0065389E69B827",
    "type": "concert"
+  },
+  {
+   "venue": "Fox Theatre",
+   "title": "Buena Vista Social Club",
+   "date": "2026-11-01",
+   "time": "13:00:00",
+   "url": "https://www.foxtheatre.org/"
+  },
+  {
+   "venue": "Atlanta Symphony Hall",
+   "title": "Hocus Pocus: Live With The Atlanta Symphony Orchestra",
+   "date": "2026-11-01",
+   "time": "15:00:00",
+   "url": "https://www.ticketmaster.com/hocus-pocus-live-with-the-atlanta-atlanta-georgia-11-01-2026/event/0E006464E1E4F4E1",
+   "type": "arts"
+  },
+  {
+   "venue": "Mercedes-Benz Stadium",
+   "title": "Atlanta United FC vs. Toronto FC",
+   "date": "2026-11-01",
+   "time": "16:30:00",
+   "url": "https://www.ticketmaster.com/atlanta-united-fc-vs-toronto-fc-atlanta-georgia-11-01-2026/event/0E006372B38E9D65",
+   "type": "sports"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Ralph Roddenbery & Friends!",
+   "date": "2026-11-01",
+   "time": "18:00",
+   "url": "https://eddiesattic.com/event/ralph-roddenbery/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "The Menzingers: Everything I Ever Saw North American Tour",
+   "date": "2026-11-01",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/the-menzingers-everything-i-ever-saw-atlanta-georgia-11-01-2026/event/0E00649DEA2E3FAF",
+   "type": "concert"
+  },
+  {
+   "venue": "Fox Theatre",
+   "title": "Buena Vista Social Club",
+   "date": "2026-11-01",
+   "time": "18:30:00",
+   "url": "https://www.foxtheatre.org/"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "SiriusXM Octane Presents: Ninth Key",
+   "date": "2026-11-01",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/siriusxm-octane-presents-ninth-key-atlanta-georgia-11-01-2026/event/0E0064FDD77CC7F8",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Sap's Erasure Tour",
+   "date": "2026-11-01",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/saps-erasure-tour-atlanta-georgia-11-01-2026/event/0E006513CAA6D4ED",
+   "type": "concert"
+  },
+  {
+   "venue": "Center Stage",
+   "title": "Emo Orchestra With The Spill Canvas - An Evening Of Emo",
+   "date": "2026-11-01",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/emo-orchestra-with-the-spill-canvas-atlanta-georgia-11-01-2026/event/0E00639393536D85",
+   "type": "concert"
+  },
+  {
+   "venue": "Variety Playhouse",
+   "title": "Shyne: 2622 Lgnd Tour with Barrington Levy and Lil' Cease",
+   "date": "2026-11-01",
+   "time": "20:00",
+   "url": "https://www.axs.com/events/1521767/shyne-2622-lgnd-tour-with-barrington-levy-and-lil-cease-tickets",
+   "status": "cancelled",
+   "type": "concert",
+   "statusSince": "2026-10-29T01:13:12.294Z"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Jadeee",
+   "date": "2026-11-01",
+   "time": "20:00",
+   "url": "https://eddiesattic.com/event/jadeee/",
+   "type": "concert"
   }
  ]
 }
