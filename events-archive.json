@@ -2359,6 +2359,56 @@
    "time": "20:00",
    "url": "https://eddiesattic.com/event/jadeee/",
    "type": "concert"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Eddie’s Attic Songwriters Open Mic Night",
+   "date": "2026-11-02",
+   "time": "19:00",
+   "url": "https://eddiesattic.com/event/eddies-attic-songwriters-open-mic-night-131/",
+   "type": "concert"
+  },
+  {
+   "venue": "Variety Playhouse",
+   "title": "Higher Learning with Van Lathan and Rachel Lindsay LIVE!",
+   "date": "2026-11-02",
+   "time": "20:00",
+   "url": "https://www.axs.com/events/1640211/higher-learning-with-van-lathan-and-rachel-lindsay-live-tickets",
+   "type": "concert"
+  },
+  {
+   "venue": "Atlanta Symphony Hall",
+   "title": "Zade Dirani",
+   "date": "2026-11-02",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/zade-dirani-atlanta-georgia-11-02-2026/event/0E00650CAAEDAE9C",
+   "type": "concert"
+  },
+  {
+   "venue": "Center Stage",
+   "title": "Fruit Wine Productions & OBSESSED Present Hokus Pokus Live!",
+   "date": "2026-11-02",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/fruit-wine-productions-obsessed-present-hokus-atlanta-georgia-11-02-2026/event/0E0064B3EAEB644B",
+   "type": "arts",
+   "status": "cancelled",
+   "statusSince": "2026-10-12T01:47:18.491Z"
+  },
+  {
+   "venue": "Vinyl",
+   "title": "Khantrast",
+   "date": "2026-11-02",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/khantrast-atlanta-georgia-11-02-2026/event/0E0065170D5087DF",
+   "type": "concert"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Poetry on Peter",
+   "date": "2026-11-02",
+   "time": "21:15",
+   "url": "https://eddiesattic.com/event/poetry-on-peter-5/",
+   "type": "concert"
   }
  ]
 }
