@@ -423,10 +423,21 @@
       tm: { id: 'KovZpZAEkAaA', match: "chastain", fallbackUrl: 'https://www.livenation.com/venue/KovZpZAEkAaA/', exclude: /parking/i },
       alias: /chastain park/i,
     },
+    // --- On DICE (2026-11-03, Steve: "add all dice venues in cities/neighborhoods covered"): every venue on DICE's city page inside the map, read from its public DICE venue page ---
+    'Station 11': { // on DICE (30 North Avenue Northeast, Atlanta, Georgia 30308); its DICE venue page is the listing (2026-11-03)
+      geo: [33.77129, -84.38731],
+      area: 'town',
+      type: 'concert',
+      cssVar: '--v-station11',
+      color: '#eab886',
+      url: 'https://dice.fm/venue/18686',
+      icon: 'https://www.google.com/s2/favicons?domain=dice.fm&sz=128',
+      feed: { kind: 'dice', url: 'https://dice.fm/venue/18686' },
+    },
   };
 
   // The usual view: every room on — nothing here lists nightly bar programs
-  var DEFAULT_ON = ['State Farm Arena', 'Mercedes-Benz Stadium', 'Truist Park', 'Fox Theatre', 'Atlanta Symphony Hall', 'Cobb Energy Centre', 'Gas South Arena', 'Gateway Center Arena', 'Bobby Dodd Stadium', 'McCamish Pavilion', 'Tabernacle', 'The Eastern', 'Coca-Cola Roxy', 'Buckhead Theatre', 'Variety Playhouse', 'The Masquerade', 'Center Stage', 'The Loft', 'Vinyl', 'Terminal West', 'Believe Music Hall', 'Aisle 5', "Smith's Olde Bar", "Eddie's Attic", 'Lakewood Amphitheatre', 'Ameris Bank Amphitheatre', 'Chastain Park'];
+  var DEFAULT_ON = ['State Farm Arena', 'Mercedes-Benz Stadium', 'Truist Park', 'Fox Theatre', 'Atlanta Symphony Hall', 'Cobb Energy Centre', 'Gas South Arena', 'Gateway Center Arena', 'Bobby Dodd Stadium', 'McCamish Pavilion', 'Tabernacle', 'The Eastern', 'Coca-Cola Roxy', 'Buckhead Theatre', 'Variety Playhouse', 'The Masquerade', 'Center Stage', 'The Loft', 'Vinyl', 'Terminal West', 'Believe Music Hall', 'Aisle 5', "Smith's Olde Bar", "Eddie's Attic", 'Lakewood Amphitheatre', 'Ameris Bank Amphitheatre', 'Chastain Park', 'Station 11'];
   var DEFAULT_OFF = [];
   var PREFS_KNOWN_FROM = null; // no default-off venue yet, so nothing for saved prefs to be told about
 
@@ -451,6 +462,7 @@
     ['badge', 'concert'], ['badge', 'sports'], ['badge', 'arts'], ['badge', 'community'],
     ['team', 'hawks'], ['team', 'falcons'], ['team', 'braves'], ['team', 'united'], ['team', 'dream'], ['team', 'yellowjackets'],
     ['cap', 'stadium'], ['cap', 'arena'], ['cap', 'hall'], ['cap', 'room'],
+    ['venue', 'Station 11'], // 2026-11-03: the DICE venues, 42 slots, 9 digits
   ];
 
   // The words the page uses for the place
