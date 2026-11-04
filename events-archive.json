@@ -2409,6 +2409,88 @@
    "time": "21:15",
    "url": "https://eddiesattic.com/event/poetry-on-peter-5/",
    "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Dead Poet Society x Honey Revenge",
+   "date": "2026-11-03",
+   "time": "17:30:00",
+   "url": "https://www.ticketmaster.com/dead-poet-society-x-honey-revenge-atlanta-georgia-11-03-2026/event/0E0064F8A58A8181",
+   "type": "concert"
+  },
+  {
+   "venue": "The Eastern",
+   "title": "Bitch Cabal Feat. Wednesday & Mannequin Pussy",
+   "date": "2026-11-03",
+   "time": "19:00",
+   "url": "https://www.axs.com/events/1489979/bitch-cabal-feat-wednesday-mannequin-pussy-tickets",
+   "type": "concert"
+  },
+  {
+   "venue": "McCamish Pavilion",
+   "title": "Georgia Tech Yellow Jackets Mens Basketball vs. Hampton Pirates Mens Basketball",
+   "date": "2026-11-03",
+   "time": "19:00:00",
+   "url": "https://ramblinwreck.com/sports/m-baskbl/schedule/",
+   "type": "sports"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Surely Tempo",
+   "date": "2026-11-03",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/surely-tempo-atlanta-georgia-11-03-2026/event/0E0064F5B64BC667",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Hotel Allan - The 10 Year Anniversary Tour",
+   "date": "2026-11-03",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/hotel-allan-the-10-year-anniversary-atlanta-georgia-11-03-2026/event/0E0064C5EC076B88",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Ella Red & Weathers",
+   "date": "2026-11-03",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/ella-red-weathers-atlanta-georgia-11-03-2026/event/0E00653CD5CB1ABB",
+   "type": "concert"
+  },
+  {
+   "venue": "Terminal West",
+   "title": "Prayers",
+   "date": "2026-11-03",
+   "time": "19:30",
+   "url": "https://www.axs.com/events/1549057/prayers-tickets",
+   "status": "cancelled",
+   "type": "concert",
+   "statusSince": "2026-10-29T01:13:12.294Z"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Coco Montoya – Writing on the Wall",
+   "date": "2026-11-03",
+   "time": "19:30",
+   "url": "https://eddiesattic.com/event/coco-montoya-3/",
+   "type": "concert"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Coco Montoya",
+   "date": "2026-11-03",
+   "time": "19:30",
+   "url": "https://eddiesattic.com/event/coco-montoya-4/",
+   "type": "concert"
+  },
+  {
+   "venue": "Buckhead Theatre",
+   "title": "Ten - US Showcase Tour",
+   "date": "2026-11-03",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/ten-us-showcase-tour-atlanta-georgia-11-03-2026/event/0E00651301874E3F",
+   "type": "concert"
   }
  ]
 }
