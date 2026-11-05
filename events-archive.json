@@ -2491,6 +2491,62 @@
    "time": "20:00:00",
    "url": "https://www.ticketmaster.com/ten-us-showcase-tour-atlanta-georgia-11-03-2026/event/0E00651301874E3F",
    "type": "concert"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Aaron Lee Tasjan w/ special guest Madeleine Kelson",
+   "date": "2026-11-04",
+   "time": "19:00",
+   "url": "https://eddiesattic.com/event/aaron-lee-tasjan-2/",
+   "type": "concert"
+  },
+  {
+   "venue": "Tabernacle",
+   "title": "Daniel Sloss: BITTER (Brand New Tour!)",
+   "date": "2026-11-04",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/daniel-sloss-bitter-brand-new-tour-atlanta-georgia-11-04-2026/event/0E006442B53B6667",
+   "type": "arts"
+  },
+  {
+   "venue": "State Farm Arena",
+   "title": "Dave Chappelle Karmageddon",
+   "date": "2026-11-04",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/dave-chappelle-karmageddon-atlanta-georgia-11-04-2026/event/0E006536B1509C45",
+   "type": "arts"
+  },
+  {
+   "venue": "Variety Playhouse",
+   "title": "Bruce Cockburn",
+   "date": "2026-11-04",
+   "time": "20:00",
+   "url": "https://www.axs.com/events/1265671/bruce-cockburn-tickets",
+   "type": "concert"
+  },
+  {
+   "venue": "Center Stage",
+   "title": "The Army, The Navy",
+   "date": "2026-11-04",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/the-army-the-navy-atlanta-georgia-11-04-2026/event/0E0064CBD6F44D3E",
+   "type": "concert"
+  },
+  {
+   "venue": "Vinyl",
+   "title": "the olllam",
+   "date": "2026-11-04",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/the-olllam-atlanta-georgia-11-04-2026/event/0E006505D554AC3C",
+   "type": "concert"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Zak Toscani & Jordan Burchel",
+   "date": "2026-11-04",
+   "time": "21:00",
+   "url": "https://eddiesattic.com/event/zak-toscani-jordan-burchel/",
+   "type": "concert"
   }
  ]
 }
