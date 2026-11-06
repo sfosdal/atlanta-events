@@ -2547,6 +2547,106 @@
    "time": "21:00",
    "url": "https://eddiesattic.com/event/zak-toscani-jordan-burchel/",
    "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Knox",
+   "date": "2026-11-05",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/knox-atlanta-georgia-11-05-2026/event/0E0064E6E9DC576B",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Qendresa: Date Night Tour",
+   "date": "2026-11-05",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/qendresa-date-night-tour-atlanta-georgia-11-05-2026/event/0E006505E063BC00",
+   "type": "concert"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Brad Goodall w/ Craig Greenberg",
+   "date": "2026-11-05",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/brad-goodall-w-craig-greenberg-decatur-georgia-11-05-2026/event/0E006534F309F7C3",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-11-05T17:39:33.353Z"
+  },
+  {
+   "venue": "Mercedes-Benz Stadium",
+   "title": "The R&B Tour - Starring Usher Raymond & Chris Brown",
+   "date": "2026-11-05",
+   "time": "19:30",
+   "url": "https://mercedesbenzstadium.com/events/the-r-b-tour---starring-usher-raymond-chris-brown-night-5",
+   "type": "sports"
+  },
+  {
+   "venue": "The Eastern",
+   "title": "Madeon presents Victory Live",
+   "date": "2026-11-05",
+   "time": "20:00",
+   "url": "https://www.axs.com/events/1434664/madeon-presents-victory-live-tickets",
+   "type": "concert"
+  },
+  {
+   "venue": "Variety Playhouse",
+   "title": "The Afghan Whigs",
+   "date": "2026-11-05",
+   "time": "20:00",
+   "url": "https://www.axs.com/events/1468948/the-afghan-whigs-tickets",
+   "type": "concert"
+  },
+  {
+   "venue": "Terminal West",
+   "title": "Kitchen Dwellers & Dogs In A Pile",
+   "date": "2026-11-05",
+   "time": "20:00",
+   "url": "https://www.axs.com/events/1569780/kitchen-dwellers-dogs-in-a-pile-tickets",
+   "type": "concert"
+  },
+  {
+   "venue": "Atlanta Symphony Hall",
+   "title": "Bach + Brahms",
+   "date": "2026-11-05",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/bach-brahms-atlanta-georgia-11-05-2026/event/0E0064D88F1462C8",
+   "type": "arts"
+  },
+  {
+   "venue": "Center Stage",
+   "title": "The Arcadian Wild",
+   "date": "2026-11-05",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/the-arcadian-wild-atlanta-georgia-11-05-2026/event/0E0064CCB69DF9C6",
+   "type": "concert"
+  },
+  {
+   "venue": "Aisle 5",
+   "title": "Wim Tapley & The Cannons",
+   "date": "2026-11-05",
+   "time": "20:00:00",
+   "url": "https://eventim.us/a5wimtapleynov2026",
+   "type": "concert"
+  },
+  {
+   "venue": "Smith's Olde Bar",
+   "title": "Joe Jordan",
+   "date": "2026-11-05",
+   "time": "20:00:00",
+   "url": "https://app.opendate.io/e/joe-jordan-november-05-2026-709979",
+   "type": "concert"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Tucker Underwood w/ Madelyn Tallent",
+   "date": "2026-11-05",
+   "time": "21:15:00",
+   "url": "https://www.ticketmaster.com/tucker-underwood-w-madelyn-tallent-decatur-georgia-11-05-2026/event/0E006557AF12B010",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-11-05T17:39:33.353Z"
   }
  ]
 }
