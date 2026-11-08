@@ -2809,6 +2809,178 @@
    "time": "21:00",
    "url": "https://eddiesattic.com/event/angie-aparo-9/",
    "type": "concert"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Vintage Vixens",
+   "date": "2026-11-07",
+   "time": "17:00",
+   "url": "https://eddiesattic.com/event/vintage-vixens-4/",
+   "type": "concert"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Peter Bradley Adams",
+   "date": "2026-11-07",
+   "time": "19:00",
+   "url": "https://eddiesattic.com/event/peter-bradley-adams-3/",
+   "type": "concert"
+  },
+  {
+   "venue": "Gas South Arena",
+   "title": "Sugarland",
+   "date": "2026-11-07",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/sugarland-duluth-georgia-11-07-2026/event/0E0065079195593A",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Paige Fish: the midnight crisis tour",
+   "date": "2026-11-07",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/paige-fish-the-midnight-crisis-tour-atlanta-georgia-11-07-2026/event/0E0064FCDFA7DC7D",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "AJJ",
+   "date": "2026-11-07",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/ajj-atlanta-georgia-11-07-2026/event/0E006503D47BC3BF",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Cannelle",
+   "date": "2026-11-07",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/cannelle-atlanta-georgia-11-07-2026/event/0E00651AFF8DD3E4",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Jai Wolf 10 Year Anniversary Tour",
+   "date": "2026-11-07",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/jai-wolf-10-year-anniversary-tour-atlanta-georgia-11-07-2026/event/0E0064D1BCC4E3CF",
+   "type": "concert"
+  },
+  {
+   "venue": "State Farm Arena",
+   "title": "Atlanta Hawks vs. Brooklyn Nets",
+   "date": "2026-11-07",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/atlanta-hawks-vs-brooklyn-nets-atlanta-georgia-11-07-2026/event/0E0065059247522E",
+   "type": "sports"
+  },
+  {
+   "venue": "Cobb Energy Centre",
+   "title": "Atlanta Opera Presents Silent Night",
+   "date": "2026-11-07",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/atlanta-opera-presents-silent-night-atlanta-georgia-11-07-2026/event/0E0064EDA4237603",
+   "type": "arts"
+  },
+  {
+   "venue": "Bobby Dodd Stadium",
+   "title": "Georgia Tech Yellow Jackets Football vs. Louisville Cardinals Football",
+   "date": "2026-11-07",
+   "time": "19:30:00",
+   "url": "https://ramblinwreck.com/sports/m-footbl/schedule/",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "ACC Network"
+    ]
+   }
+  },
+  {
+   "venue": "Tabernacle",
+   "title": "Movements - Happier Now USA Tour",
+   "date": "2026-11-07",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/movements-happier-now-usa-tour-atlanta-georgia-11-07-2026/event/0E0064A5E4B9EDA0",
+   "type": "concert"
+  },
+  {
+   "venue": "The Eastern",
+   "title": "Brutalismus 3000",
+   "date": "2026-11-07",
+   "time": "20:00",
+   "url": "https://www.axs.com/events/1541534/brutalismus-3000-tickets",
+   "type": "concert"
+  },
+  {
+   "venue": "Variety Playhouse",
+   "title": "Slow Pulp",
+   "date": "2026-11-07",
+   "time": "20:00",
+   "url": "https://www.axs.com/events/1435446/slow-pulp-tickets",
+   "type": "concert"
+  },
+  {
+   "venue": "Fox Theatre",
+   "title": "NieR: Orchestra Concert",
+   "date": "2026-11-07",
+   "time": "20:00:00",
+   "url": "https://www.foxtheatre.org/",
+   "type": "concert"
+  },
+  {
+   "venue": "Atlanta Symphony Hall",
+   "title": "Bach + Brahms",
+   "date": "2026-11-07",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/bach-brahms-atlanta-georgia-11-07-2026/event/0E0064D88F1662E1",
+   "type": "arts"
+  },
+  {
+   "venue": "Center Stage",
+   "title": "Charlie Berens: The Lost and Found Tour",
+   "date": "2026-11-07",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/charlie-berens-the-lost-and-found-atlanta-georgia-11-07-2026/event/0E00648D934659C3",
+   "type": "arts"
+  },
+  {
+   "venue": "Vinyl",
+   "title": "Laya Presents Lipstick N' Leather",
+   "date": "2026-11-07",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/laya-presents-lipstick-n-leather-atlanta-georgia-11-07-2026/event/0E00652BF3D9B3BA",
+   "type": "concert"
+  },
+  {
+   "venue": "Terminal West",
+   "title": "Deer Tick",
+   "date": "2026-11-07",
+   "time": "20:30",
+   "url": "https://www.axs.com/events/1358041/deer-tick-tickets",
+   "type": "concert"
+  },
+  {
+   "venue": "Coca-Cola Roxy",
+   "title": "Concert for the Planet",
+   "date": "2026-11-07",
+   "time": "20:30:00",
+   "url": "https://www.universe.com/events/concert-for-the-planet-tickets-VZ261K?ref=ticketmaster",
+   "type": "concert"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Eliot Bronson – Album Release",
+   "date": "2026-11-07",
+   "time": "21:00",
+   "url": "https://eddiesattic.com/event/eliot-bronson-7/",
+   "type": "concert"
+  },
+  {
+   "venue": "Aisle 5",
+   "title": "Thought Process",
+   "date": "2026-11-07",
+   "time": "21:00:00",
+   "url": "https://www.aisle5atl.com/"
   }
  ]
 }
