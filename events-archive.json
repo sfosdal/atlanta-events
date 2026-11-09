@@ -2981,6 +2981,102 @@
    "date": "2026-11-07",
    "time": "21:00:00",
    "url": "https://www.aisle5atl.com/"
+  },
+  {
+   "venue": "Gas South Arena",
+   "title": "Dr. Seuss' How the Grinch Stole Christmas! The Musical",
+   "date": "2026-11-08",
+   "time": "11:00",
+   "url": "https://www.gassouthdistrict.com/events/detail/how-the-grinch-stole-christmas-the-musical",
+   "type": "concert"
+  },
+  {
+   "venue": "Gateway Center Arena",
+   "title": "College Park Skyhawks vs. Raptors 905",
+   "date": "2026-11-08",
+   "time": "14:00:00",
+   "url": "https://www.ticketmaster.com/college-park-skyhawks-vs-raptors-905-college-park-georgia-11-08-2026/event/0E00651BD8528C99",
+   "type": "sports"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Griffin House",
+   "date": "2026-11-08",
+   "time": "18:00",
+   "url": "https://eddiesattic.com/event/griffin-house-9/",
+   "type": "concert"
+  },
+  {
+   "venue": "Atlanta Symphony Hall",
+   "title": "Atlanta Symphony Youth Orchestra Overture Concert",
+   "date": "2026-11-08",
+   "time": "18:00",
+   "url": "https://www.aso.org/events/detail/atlanta-symphony-youth-orchestra-overture-concert-4",
+   "type": "arts"
+  },
+  {
+   "venue": "Tabernacle",
+   "title": "Catch Your Breath - Not Broken Enough Tour",
+   "date": "2026-11-08",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/catch-your-breath-not-broken-enough-atlanta-georgia-11-08-2026/event/0E0064B4ED708157",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Holywatr: Deo Gratias Tour",
+   "date": "2026-11-08",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/holywatr-deo-gratias-tour-atlanta-georgia-11-08-2026/event/0E0064AEEF75B7AF",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "ZAUNTEE: God Remembers Tour",
+   "date": "2026-11-08",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/zauntee-god-remembers-tour-atlanta-georgia-11-08-2026/event/0E0064EADADEF788",
+   "type": "concert"
+  },
+  {
+   "venue": "The Eastern",
+   "title": "Jim Henson's Labyrinth: In Concert 40th Anniversary",
+   "date": "2026-11-08",
+   "time": "19:30",
+   "url": "https://www.axs.com/events/1286667/jim-hensons-labyrinth-in-concert-40th-anniversary-tickets",
+   "type": "concert"
+  },
+  {
+   "venue": "Mercedes-Benz Stadium",
+   "title": "The R&B Tour - Starring Usher Raymond & Chris Brown",
+   "date": "2026-11-08",
+   "time": "19:30",
+   "url": "https://mercedesbenzstadium.com/events/the-r-b-tour---starring-usher-raymond-chris-brown-night-2",
+   "type": "sports"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Eric Lindell",
+   "date": "2026-11-08",
+   "time": "20:00",
+   "url": "https://eddiesattic.com/event/eric-lindell/",
+   "type": "concert"
+  },
+  {
+   "venue": "Center Stage",
+   "title": "honestav - The Sweet American Boy Tour ",
+   "date": "2026-11-08",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/honestav-the-sweet-american-boy-tour-atlanta-georgia-11-08-2026/event/0E0064C5A458AEA1",
+   "type": "concert"
+  },
+  {
+   "venue": "Vinyl",
+   "title": "First To Eleven",
+   "date": "2026-11-08",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/first-to-eleven-atlanta-georgia-11-08-2026/event/0E0064DE99666713",
+   "type": "concert"
   }
  ]
 }
