@@ -3077,6 +3077,63 @@
    "time": "20:00:00",
    "url": "https://www.ticketmaster.com/first-to-eleven-atlanta-georgia-11-08-2026/event/0E0064DE99666713",
    "type": "concert"
+  },
+  {
+   "venue": "State Farm Arena",
+   "title": "Atlanta Hawks vs. Los Angeles Lakers",
+   "date": "2026-11-09",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/atlanta-hawks-vs-los-angeles-lakers-atlanta-georgia-11-09-2026/event/0E006505924C523E",
+   "type": "sports"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Cory Grinder",
+   "date": "2026-11-09",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/cory-grinder-atlanta-georgia-11-09-2026/event/0E006537E6F551C9",
+   "type": "concert"
+  },
+  {
+   "venue": "Aisle 5",
+   "title": "The Kilans",
+   "date": "2026-11-09",
+   "time": "19:00:00",
+   "url": "https://www.aisle5atl.com/"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Eddie’s Attic Songwriters Open Mic Night",
+   "date": "2026-11-09",
+   "time": "19:30",
+   "url": "https://eddiesattic.com/event/eddies-attic-songwriters-open-mic-night-128/",
+   "type": "concert"
+  },
+  {
+   "venue": "Variety Playhouse",
+   "title": "Prateek Kuhad",
+   "date": "2026-11-09",
+   "time": "20:00",
+   "url": "https://www.axs.com/events/1593717/prateek-kuhad-tickets",
+   "status": "cancelled",
+   "type": "concert",
+   "statusSince": "2026-10-29T01:13:12.294Z"
+  },
+  {
+   "venue": "Terminal West",
+   "title": "Surprise Chef",
+   "date": "2026-11-09",
+   "time": "20:00",
+   "url": "https://www.axs.com/events/1559604/surprise-chef-tickets",
+   "type": "concert"
+  },
+  {
+   "venue": "Buckhead Theatre",
+   "title": "Los Parceritos",
+   "date": "2026-11-09",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/los-parceritos-atlanta-georgia-11-09-2026/event/0E0064D0D770E261",
+   "type": "arts"
   }
  ]
 }
