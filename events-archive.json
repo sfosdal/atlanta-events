@@ -3134,6 +3134,120 @@
    "time": "20:00:00",
    "url": "https://www.ticketmaster.com/los-parceritos-atlanta-georgia-11-09-2026/event/0E0064D0D770E261",
    "type": "arts"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Wolf & Bear",
+   "date": "2026-11-10",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/wolf-bear-atlanta-georgia-11-10-2026/event/0E0064E7E75B1FE6",
+   "type": "concert"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "FABRIZIO",
+   "date": "2026-11-10",
+   "time": "19:00",
+   "url": "https://eddiesattic.com/event/fabrizio/",
+   "type": "concert"
+  },
+  {
+   "venue": "State Farm Arena",
+   "title": "The Neighbourhood",
+   "date": "2026-11-10",
+   "time": "19:00",
+   "url": "https://www.statefarmarena.com/events/detail/the-neighbourhood-the-wourld-tour-atlanta-georgia",
+   "type": "concert"
+  },
+  {
+   "venue": "Gateway Center Arena",
+   "title": "College Park Skyhawks vs. Long Island Nets",
+   "date": "2026-11-10",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/college-park-skyhawks-vs-long-island-college-park-georgia-11-10-2026/event/0E00651BD8578CA8",
+   "type": "sports"
+  },
+  {
+   "venue": "McCamish Pavilion",
+   "title": "Georgia Tech Yellow Jackets Mens Basketball vs. Eastern Kentucky Colonels Mens Basketball",
+   "date": "2026-11-10",
+   "time": "19:00:00",
+   "url": "https://ramblinwreck.com/sports/m-baskbl/schedule/",
+   "type": "sports"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Stella Lefty: Lefty Live",
+   "date": "2026-11-10",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/stella-lefty-lefty-live-atlanta-georgia-11-10-2026/event/0E0064AEB015DEE1",
+   "type": "concert"
+  },
+  {
+   "venue": "Mercedes-Benz Stadium",
+   "title": "The R&B Tour - Starring Usher Raymond & Chris Brown",
+   "date": "2026-11-10",
+   "time": "19:30",
+   "url": "https://mercedesbenzstadium.com/events/the-r-b-tour---starring-usher-raymond-chris-brown-night-3",
+   "type": "sports"
+  },
+  {
+   "venue": "Cobb Energy Centre",
+   "title": "Atlanta Opera Presents Silent Night",
+   "date": "2026-11-10",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/atlanta-opera-presents-silent-night-atlanta-georgia-11-10-2026/event/0E0064EDA427761B",
+   "type": "arts"
+  },
+  {
+   "venue": "Variety Playhouse",
+   "title": "Yaelokre",
+   "date": "2026-11-10",
+   "time": "20:00",
+   "url": "https://www.axs.com/events/1489855/yaelokre-tickets",
+   "type": "concert"
+  },
+  {
+   "venue": "Terminal West",
+   "title": "Headache",
+   "date": "2026-11-10",
+   "time": "20:00",
+   "url": "https://www.axs.com/events/1445925/headache-tickets",
+   "type": "concert"
+  },
+  {
+   "venue": "Coca-Cola Roxy",
+   "title": "Gnarls Barkley: To Whom It Still Concerns Tour",
+   "date": "2026-11-10",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/gnarls-barkley-to-whom-it-still-atlanta-georgia-11-10-2026/event/0E006530D4716CB2",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-10-30T07:40:28.483Z"
+  },
+  {
+   "venue": "The Loft",
+   "title": "Yana",
+   "date": "2026-11-10",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/yana-atlanta-georgia-11-10-2026/event/0E0064EA98257631",
+   "type": "concert"
+  },
+  {
+   "venue": "Aisle 5",
+   "title": "Sir Woman",
+   "date": "2026-11-10",
+   "time": "20:00:00",
+   "url": "https://www.eventim.us/event/tickets/703211",
+   "type": "concert"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Buffalo Wabs & The Price Hill Hustle w/ Peach Ice Cream Bluegrass",
+   "date": "2026-11-10",
+   "time": "21:00",
+   "url": "https://eddiesattic.com/event/buffalo-wabs-the-price-hill-hustle-w-peach-ice-cream-bluegrass/",
+   "type": "concert"
   }
  ]
 }
