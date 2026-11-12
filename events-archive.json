@@ -3248,6 +3248,101 @@
    "time": "21:00",
    "url": "https://eddiesattic.com/event/buffalo-wabs-the-price-hill-hustle-w-peach-ice-cream-bluegrass/",
    "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "The Wrecks - Finally : OUTSIDE Tour",
+   "date": "2026-11-11",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/the-wrecks-finally-outside-tour-atlanta-georgia-11-11-2026/event/0E0064D0C827C7B1",
+   "type": "concert"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Noah Gundersen: Rites of Spring US Tour Fall 2026 w/ Runnner and Breakup Shoes",
+   "date": "2026-11-11",
+   "time": "19:00",
+   "url": "https://eddiesattic.com/event/noah-gundersen-rites-of-spring-us-tour-fall-2026/",
+   "type": "concert"
+  },
+  {
+   "venue": "State Farm Arena",
+   "title": "Delta Sky360 Club Experience: Olivia Rodrigo",
+   "date": "2026-11-11",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/delta-sky360-club-experience-olivia-rodrigo-atlanta-georgia-11-11-2026/event/0E0064A5F8127270"
+  },
+  {
+   "venue": "Tabernacle",
+   "title": "Whitechapel - 20th Anniversary Tour",
+   "date": "2026-11-11",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/whitechapel-20th-anniversary-tour-atlanta-georgia-11-11-2026/event/0E0064ADDA0E9C02",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Sweet Pill",
+   "date": "2026-11-11",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/sweet-pill-atlanta-georgia-11-11-2026/event/0E0064AEFA17D5FF",
+   "type": "concert"
+  },
+  {
+   "venue": "Mercedes-Benz Stadium",
+   "title": "The R&B Tour - Starring Usher Raymond & Chris Brown",
+   "date": "2026-11-11",
+   "time": "19:30",
+   "url": "https://mercedesbenzstadium.com/events/the-r-b-tour---starring-usher-raymond-chris-brown-night-4",
+   "type": "sports"
+  },
+  {
+   "venue": "Buckhead Theatre",
+   "title": "Josh Garrels with special guest Taylor Armstong",
+   "date": "2026-11-11",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/josh-garrels-with-special-guest-taylor-atlanta-georgia-11-11-2026/event/0E0064631AFEF93F",
+   "type": "concert"
+  },
+  {
+   "venue": "The Eastern",
+   "title": "The Jinkx & DeLa Holiday Show",
+   "date": "2026-11-11",
+   "time": "20:00",
+   "url": "https://www.axs.com/events/1502300/the-jinkx-dela-holiday-show-tickets",
+   "type": "concert"
+  },
+  {
+   "venue": "Variety Playhouse",
+   "title": "Tab Benoit w/ Jesse Dayton",
+   "date": "2026-11-11",
+   "time": "20:00",
+   "url": "https://www.axs.com/events/1407897/tab-benoit-w-jesse-dayton-tickets",
+   "type": "concert"
+  },
+  {
+   "venue": "Terminal West",
+   "title": "lespecial",
+   "date": "2026-11-11",
+   "time": "20:00",
+   "url": "https://www.axs.com/events/1576524/lespecial-tickets",
+   "type": "concert"
+  },
+  {
+   "venue": "Center Stage",
+   "title": "Grateful Shred",
+   "date": "2026-11-11",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/grateful-shred-atlanta-georgia-11-11-2026/event/0E00647FB072CA57",
+   "type": "concert"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Noah Gundersen: Rites of Spring US Tour Fall 2026 w/ Runnner and Breakup Shoes",
+   "date": "2026-11-11",
+   "time": "21:00",
+   "url": "https://eddiesattic.com/event/noah-gundersen-rites-of-spring-us-tour-fall-2026-2/",
+   "type": "concert"
   }
  ]
 }
