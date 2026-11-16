@@ -3774,6 +3774,151 @@
    "time": "21:00:00",
    "url": "https://www.ticketmaster.com/hunter-flynn-decatur-georgia-11-14-2026/event/0E006512E3D6F8A5",
    "type": "concert"
+  },
+  {
+   "venue": "Mercedes-Benz Stadium",
+   "title": "Atlanta Falcons v Kansas City Chiefs",
+   "date": "2026-11-15",
+   "time": "13:00:00",
+   "url": "https://www.ticketmaster.com/atlanta-falcons-v-kansas-city-chiefs-atlanta-georgia-11-15-2026/event/0E00647F8E256DD8",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "CBS"
+    ]
+   }
+  },
+  {
+   "venue": "Gas South Arena",
+   "title": "The Nutcracker - (North Atlanta Dance Theatre)",
+   "date": "2026-11-15",
+   "time": "14:30",
+   "url": "https://www.gassouthdistrict.com/events/detail/nadt-the-nutcracker-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "Atlanta Symphony Hall",
+   "title": "Fauré's Requiem with ASO",
+   "date": "2026-11-15",
+   "time": "15:00:00",
+   "url": "https://www.ticketmaster.com/faures-requiem-with-aso-atlanta-georgia-11-15-2026/event/0E0064D8A0C1929C",
+   "type": "arts"
+  },
+  {
+   "venue": "Cobb Energy Centre",
+   "title": "Atlanta Opera Presents Silent Night",
+   "date": "2026-11-15",
+   "time": "15:00:00",
+   "url": "https://www.ticketmaster.com/atlanta-opera-presents-silent-night-atlanta-georgia-11-15-2026/event/0E0064EDA42C7625",
+   "type": "arts"
+  },
+  {
+   "venue": "Gas South Arena",
+   "title": "Atlanta Gladiators vs. Trois-Rivières Lions",
+   "date": "2026-11-15",
+   "time": "15:00:00",
+   "url": "https://www.ticketmaster.com/atlanta-gladiators-vs-troisrivieres-lions-duluth-georgia-11-15-2026/event/0E0064C3DA3824F6",
+   "type": "sports"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "The Fretliners When The Kettle Sings Tour w/ Wyatt Goad",
+   "date": "2026-11-15",
+   "time": "17:00",
+   "url": "https://eddiesattic.com/event/the-fretliners-when-the-kettle-sings-tour/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Chat Pile - Who Loves The Sun Tour 2026",
+   "date": "2026-11-15",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/chat-pile-who-loves-the-sun-atlanta-georgia-11-15-2026/event/0E0064C8E79E46F3",
+   "type": "concert"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Mike Farris w/ Barry Waldrep",
+   "date": "2026-11-15",
+   "time": "19:00",
+   "url": "https://eddiesattic.com/event/mike-farris-4/",
+   "type": "concert"
+  },
+  {
+   "venue": "State Farm Arena",
+   "title": "John Summit",
+   "date": "2026-11-15",
+   "time": "19:00",
+   "url": "https://www.statefarmarena.com/events/detail/john-summit-ctrl-escape-arena-tour-atlanta-georgia-tickets-2026-11-15",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Archer Oh",
+   "date": "2026-11-15",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/archer-oh-atlanta-georgia-11-15-2026/event/0E006542ECA1D251",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Giles Corey",
+   "date": "2026-11-15",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/giles-corey-atlanta-georgia-11-15-2026/event/0E006511E0443A13",
+   "type": "concert"
+  },
+  {
+   "venue": "Vinyl",
+   "title": "Franni Cash",
+   "date": "2026-11-15",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/franni-cash-atlanta-georgia-11-15-2026/event/0E00652EC4A99A82",
+   "type": "concert"
+  },
+  {
+   "venue": "The Eastern",
+   "title": "KenTheMan: One Night Stan",
+   "date": "2026-11-15",
+   "time": "19:30",
+   "url": "https://www.axs.com/events/1631722/kentheman-one-night-stan-tickets",
+   "type": "concert"
+  },
+  {
+   "venue": "Variety Playhouse",
+   "title": "Christone \"KINGFISH\" Ingram - The Hard Road Tour",
+   "date": "2026-11-15",
+   "time": "20:00",
+   "url": "https://www.axs.com/events/1490924/christone-kingfish-ingram-the-hard-road-tour-tickets",
+   "type": "concert"
+  },
+  {
+   "venue": "Terminal West",
+   "title": "Katie Pruitt - Fools for the Fleeting Tour",
+   "date": "2026-11-15",
+   "time": "20:00",
+   "url": "https://www.axs.com/events/1487739/katie-pruitt-fools-for-the-fleeting-tour-tickets",
+   "type": "concert"
+  },
+  {
+   "venue": "Coca-Cola Roxy",
+   "title": "10 Years of 6LACK Tour",
+   "date": "2026-11-15",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/10-years-of-6lack-tour-atlanta-georgia-11-15-2026/event/0E0064B68B3E6E09",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-10-12T01:47:18.491Z"
+  },
+  {
+   "venue": "Center Stage",
+   "title": "King Of Drag",
+   "date": "2026-11-15",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/king-of-drag-atlanta-georgia-11-15-2026/event/0E006506C312A3DD",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-10-12T01:47:18.491Z"
   }
  ]
 }
