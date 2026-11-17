@@ -3919,6 +3919,63 @@
    "type": "concert",
    "status": "cancelled",
    "statusSince": "2026-10-12T01:47:18.491Z"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Eddie’s Attic Songwriters Open Mic Night",
+   "date": "2026-11-16",
+   "time": "19:00",
+   "url": "https://eddiesattic.com/event/eddies-attic-songwriters-open-mic-night-132/",
+   "type": "concert"
+  },
+  {
+   "venue": "Atlanta Symphony Hall",
+   "title": "Rocky In Concert",
+   "date": "2026-11-16",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/rocky-in-concert-atlanta-georgia-11-16-2026/event/0E0064BDAB9CD7BE",
+   "type": "movie",
+   "status": "cancelled",
+   "statusSince": "2026-10-21T02:21:10.367Z"
+  },
+  {
+   "venue": "Terminal West",
+   "title": "Tiny Habits",
+   "date": "2026-11-16",
+   "time": "20:00",
+   "url": "https://www.axs.com/events/1479439/tiny-habits-tickets",
+   "type": "concert"
+  },
+  {
+   "venue": "Vinyl",
+   "title": "Father of Peace",
+   "date": "2026-11-16",
+   "time": "20:00",
+   "url": "https://www.centerstage-atlanta.com//events//father-of-peace//",
+   "type": "concert"
+  },
+  {
+   "venue": "The Loft",
+   "title": "Father of Peace",
+   "date": "2026-11-16",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/father-of-peace-atlanta-georgia-11-16-2026/event/0E0064D199398D3C",
+   "type": "concert",
+   "tickets": {
+    "box": 0,
+    "resale": 111,
+    "checked": "2026-11-16T23:18:34.493Z",
+    "from": 19.99
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Poetry on Peter",
+   "date": "2026-11-16",
+   "time": "21:15",
+   "url": "https://eddiesattic.com/event/poetry-on-peter-6/",
+   "type": "concert"
   }
  ]
 }
