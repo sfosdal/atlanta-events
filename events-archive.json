@@ -3976,6 +3976,165 @@
    "time": "21:15",
    "url": "https://eddiesattic.com/event/poetry-on-peter-6/",
    "type": "concert"
+  },
+  {
+   "venue": "Tabernacle",
+   "title": "Periphery - A Pale White Dot US Tour",
+   "date": "2026-11-17",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/periphery-a-pale-white-dot-us-atlanta-georgia-11-17-2026/event/0E0064B38CDC6973",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-16T23:22:04.748Z",
+    "from": 49.75
+   }
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Boston Manor",
+   "date": "2026-11-17",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/boston-manor-atlanta-georgia-11-17-2026/event/0E0064B6FCF9B9DC",
+   "type": "concert",
+   "tickets": {
+    "box": 441,
+    "resale": 0,
+    "checked": "2026-11-16T23:22:06.583Z",
+    "from": 28
+   }
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Elijah Fox Trio w/ Kenny Banks Jr.",
+   "date": "2026-11-17",
+   "time": "19:00",
+   "url": "https://eddiesattic.com/event/elijah-fox/",
+   "type": "concert"
+  },
+  {
+   "venue": "Cobb Energy Centre",
+   "title": "Cobb County Community Town Hall",
+   "date": "2026-11-17",
+   "time": "19:00",
+   "url": "https://www.cobbenergycentre.com/events/detail/community-town-hall",
+   "type": "arts"
+  },
+  {
+   "venue": "McCamish Pavilion",
+   "title": "Georgia Tech Yellow Jackets Mens Basketball vs. Norfolk State Spartans Mens Basketball",
+   "date": "2026-11-17",
+   "time": "19:00:00",
+   "url": "https://ramblinwreck.com/sports/m-baskbl/schedule/",
+   "type": "sports"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Sweeping Promises",
+   "date": "2026-11-17",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/sweeping-promises-atlanta-georgia-11-17-2026/event/0E0064A8E376CBA4",
+   "type": "concert",
+   "tickets": {
+    "box": 232,
+    "resale": 0,
+    "checked": "2026-11-16T23:22:08.690Z",
+    "from": 18
+   }
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Josie Edwards",
+   "date": "2026-11-17",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/josie-edwards-atlanta-georgia-11-17-2026/event/0E006528B19CAB26",
+   "type": "concert",
+   "tickets": {
+    "box": 121,
+    "resale": 0,
+    "checked": "2026-11-16T23:22:10.442Z",
+    "from": 21
+   }
+  },
+  {
+   "venue": "Center Stage",
+   "title": "Claudio Simonetti's Goblin",
+   "date": "2026-11-17",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/claudio-simonettis-goblin-atlanta-georgia-11-17-2026/event/0E0065329B4D8D09",
+   "type": "concert"
+  },
+  {
+   "venue": "Aisle 5",
+   "title": "Mother Soki",
+   "date": "2026-11-17",
+   "time": "19:00:00",
+   "url": "https://www.aisle5atl.com/"
+  },
+  {
+   "venue": "State Farm Arena",
+   "title": "Doja Cat",
+   "date": "2026-11-17",
+   "time": "19:30",
+   "url": "https://www.statefarmarena.com/events/detail/doja-cat-tour-ma-vie-world-tour",
+   "type": "concert"
+  },
+  {
+   "venue": "Fox Theatre",
+   "title": "Death Becomes Her",
+   "date": "2026-11-17",
+   "time": "19:30",
+   "url": "https://www.foxtheatre.org/events/detail/death-becomes-her",
+   "type": "concert"
+  },
+  {
+   "venue": "Buckhead Theatre",
+   "title": "Russ Taff and Steve Taylor: The (Almost) Farewell Tour",
+   "date": "2026-11-17",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/russ-taff-and-steve-taylor-the-atlanta-georgia-11-17-2026/event/0E006505AB3E7430",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-10-17T00:16:33.986Z"
+  },
+  {
+   "venue": "The Eastern",
+   "title": "PALACE",
+   "date": "2026-11-17",
+   "time": "20:00",
+   "url": "https://www.axs.com/events/1414727/palace-tickets",
+   "type": "concert"
+  },
+  {
+   "venue": "Variety Playhouse",
+   "title": "Fruit Bats",
+   "date": "2026-11-17",
+   "time": "20:00",
+   "url": "https://www.axs.com/events/1380718/fruit-bats-tickets",
+   "type": "concert"
+  },
+  {
+   "venue": "Vinyl",
+   "title": "Dave Hause & The Mermaid",
+   "date": "2026-11-17",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/dave-hause-the-mermaid-atlanta-georgia-11-17-2026/event/0E00649E97D8C27F",
+   "type": "concert",
+   "tickets": {
+    "box": 258,
+    "resale": 0,
+    "checked": "2026-11-16T23:22:52.549Z",
+    "from": 25
+   }
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Elijah Fox Trio w/ Kenny Banks Jr.",
+   "date": "2026-11-17",
+   "time": "21:15",
+   "url": "https://eddiesattic.com/event/elijah-fox-2/",
+   "type": "concert"
   }
  ]
 }
