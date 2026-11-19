@@ -4135,6 +4135,110 @@
    "time": "21:15",
    "url": "https://eddiesattic.com/event/elijah-fox-2/",
    "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "I Set My Friends On Fire",
+   "date": "2026-11-18",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/i-set-my-friends-on-fire-atlanta-georgia-11-18-2026/event/0E00653EA990C793",
+   "type": "concert",
+   "tickets": {
+    "box": 42,
+    "resale": 0,
+    "checked": "2026-11-16T23:31:23.467Z",
+    "from": 22.5
+   }
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Nick Niespodziani w/ Family & Friends at Eddie’s Attic!",
+   "date": "2026-11-18",
+   "time": "19:00",
+   "url": "https://eddiesattic.com/event/nick-niespodziani-w-family-friends-at-eddies-attic/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Los Gaiteros de San Jacinto, Fruko, and Carmelo Torres: Madre Cumbia",
+   "date": "2026-11-18",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/los-gaiteros-de-san-jacinto-fruko-atlanta-georgia-11-18-2026/event/0E0064F8EF5B2A17",
+   "type": "concert",
+   "tickets": {
+    "box": 164,
+    "resale": 0,
+    "checked": "2026-11-16T23:31:26.495Z",
+    "from": 30
+   }
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "The Paradox",
+   "date": "2026-11-18",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/the-paradox-atlanta-georgia-11-18-2026/event/0E0064CCDFC3A46C",
+   "type": "concert",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-16T23:31:30.707Z"
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Terminal West",
+   "title": "The Wldlfe",
+   "date": "2026-11-18",
+   "time": "19:30",
+   "url": "https://www.axs.com/events/1489470/the-wldlfe-tickets",
+   "type": "concert"
+  },
+  {
+   "venue": "Fox Theatre",
+   "title": "Death Becomes Her",
+   "date": "2026-11-18",
+   "time": "19:30",
+   "url": "https://www.foxtheatre.org/events/detail/death-becomes-her",
+   "type": "concert"
+  },
+  {
+   "venue": "Variety Playhouse",
+   "title": "Joy Oladokun: The Heavy Things Tour",
+   "date": "2026-11-18",
+   "time": "20:00",
+   "url": "https://www.axs.com/events/1537666/joy-oladokun-the-heavy-things-tour-tickets",
+   "type": "concert"
+  },
+  {
+   "venue": "Buckhead Theatre",
+   "title": "AJ McLean presents Alexander James : The Better Man Tour",
+   "date": "2026-11-18",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/aj-mclean-presents-alexander-james-the-atlanta-georgia-11-18-2026/event/0E0064D12CA2470B",
+   "type": "concert"
+  },
+  {
+   "venue": "Vinyl",
+   "title": "Helado Negro and Reyna Tropical as \"Helado Tropical\"",
+   "date": "2026-11-18",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/helado-negro-and-reyna-tropical-as-atlanta-georgia-11-18-2026/event/0E0064C5A7DCB6BB",
+   "type": "concert",
+   "tickets": {
+    "box": 165,
+    "resale": 0,
+    "checked": "2026-11-16T23:31:53.299Z",
+    "from": 31
+   }
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "East Nash Grass",
+   "date": "2026-11-18",
+   "time": "21:00",
+   "url": "https://eddiesattic.com/event/east-nash-grass-3/",
+   "type": "concert"
   }
  ]
 }
