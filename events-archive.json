@@ -4239,6 +4239,171 @@
    "time": "21:00",
    "url": "https://eddiesattic.com/event/east-nash-grass-3/",
    "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Chase Petra",
+   "date": "2026-11-19",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/chase-petra-atlanta-georgia-11-19-2026/event/0E0064F69BD18A75",
+   "type": "concert",
+   "tickets": {
+    "box": 204,
+    "resale": 0,
+    "checked": "2026-11-17T00:18:13.834Z",
+    "from": 25
+   }
+  },
+  {
+   "venue": "Gas South Arena",
+   "title": "Star of Wonder 2026 – (Buford School of Ballet)",
+   "date": "2026-11-19",
+   "time": "18:30",
+   "url": "https://www.gassouthdistrict.com/events/detail/star-of-wonder-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Jonah Kagen",
+   "date": "2026-11-19",
+   "time": "19:00",
+   "url": "https://eddiesattic.com/event/jonah-kagen/",
+   "type": "concert"
+  },
+  {
+   "venue": "Buckhead Theatre",
+   "title": "Adam Ray: Who Is Me Tour",
+   "date": "2026-11-19",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/adam-ray-who-is-me-tour-atlanta-georgia-11-19-2026/event/0E00649708FB8F3A",
+   "age21": true,
+   "type": "arts"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Hovvdy",
+   "date": "2026-11-19",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/hovvdy-atlanta-georgia-11-19-2026/event/0E0064A8F12AF837",
+   "type": "concert",
+   "tickets": {
+    "box": 411,
+    "resale": 0,
+    "checked": "2026-11-17T00:18:36.395Z",
+    "from": 25
+   }
+  },
+  {
+   "venue": "Fox Theatre",
+   "title": "Death Becomes Her",
+   "date": "2026-11-19",
+   "time": "19:30",
+   "url": "https://www.foxtheatre.org/events/detail/death-becomes-her",
+   "type": "concert"
+  },
+  {
+   "venue": "Variety Playhouse",
+   "title": "Jalen Ngonda: Doctrine of Love Tour",
+   "date": "2026-11-19",
+   "time": "20:00",
+   "url": "https://www.axs.com/events/1475888/jalen-ngonda-doctrine-of-love-tour-tickets",
+   "status": "cancelled",
+   "type": "concert",
+   "statusSince": "2026-10-29T01:13:12.294Z"
+  },
+  {
+   "venue": "Terminal West",
+   "title": "Donny Benet",
+   "date": "2026-11-19",
+   "time": "20:00",
+   "url": "https://www.axs.com/events/1400926/donny-benet-tickets",
+   "type": "concert"
+  },
+  {
+   "venue": "Atlanta Symphony Hall",
+   "title": "Schumann + Bruckner",
+   "date": "2026-11-19",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/schumann-bruckner-atlanta-georgia-11-19-2026/event/0E0064D8A376978A",
+   "type": "arts",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T00:18:56.565Z",
+    "from": 56.4
+   }
+  },
+  {
+   "venue": "Cobb Energy Centre",
+   "title": "Skyline Lounge - BEAT",
+   "date": "2026-11-19",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/skyline-lounge-beat-atlanta-georgia-11-19-2026/event/0E0064FFC240E176",
+   "age21": true,
+   "tickets": {
+    "box": 22,
+    "resale": 0,
+    "checked": "2026-11-17T00:18:58.890Z",
+    "from": 55
+   }
+  },
+  {
+   "venue": "Cobb Energy Centre",
+   "title": "Beat: Belew/Vai/Levin/Bozzio Performing the Music of KING Crimson",
+   "date": "2026-11-19",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/beat-belewvailevinbozzio-performing-the-music-of-atlanta-georgia-11-19-2026/event/0E0064FFC237E164",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T00:19:19.089Z",
+    "from": 62.7
+   }
+  },
+  {
+   "venue": "Center Stage",
+   "title": "bleood",
+   "date": "2026-11-19",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/bleood-atlanta-georgia-11-19-2026/event/0E006511D2B11815",
+   "type": "concert",
+   "tickets": {
+    "box": 248,
+    "resale": 0,
+    "checked": "2026-11-17T00:19:20.927Z",
+    "from": 27
+   }
+  },
+  {
+   "venue": "Vinyl",
+   "title": "Chrissy Chlapecka",
+   "date": "2026-11-19",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/chrissy-chlapecka-atlanta-georgia-11-19-2026/event/0E0064DEA38B770D",
+   "type": "concert",
+   "tickets": {
+    "box": 128,
+    "resale": 0,
+    "checked": "2026-11-17T00:19:23.996Z",
+    "from": 25
+   }
+  },
+  {
+   "venue": "Smith's Olde Bar",
+   "title": "Bungalow Collect Live at Smith's Olde Bar (Atlanta, GA)",
+   "date": "2026-11-19",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/bungalow-collect-live-at-smiths-smiths-olde-bar-tickets/14340774",
+   "type": "concert"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Matthew Goodnough w/ Runnin Dry",
+   "date": "2026-11-19",
+   "time": "21:15",
+   "url": "https://eddiesattic.com/event/matthew-goodnough/",
+   "type": "concert"
   }
  ]
 }
