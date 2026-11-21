@@ -4404,6 +4404,231 @@
    "time": "21:15",
    "url": "https://eddiesattic.com/event/matthew-goodnough/",
    "type": "concert"
+  },
+  {
+   "venue": "Gas South Arena",
+   "title": "Star of Wonder 2026 – (Buford School of Ballet)",
+   "date": "2026-11-20",
+   "time": "18:30",
+   "url": "https://www.gassouthdistrict.com/events/detail/star-of-wonder-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Jonah Kagen",
+   "date": "2026-11-20",
+   "time": "19:00",
+   "url": "https://eddiesattic.com/event/jonah-kagen-2/",
+   "type": "concert"
+  },
+  {
+   "venue": "State Farm Arena",
+   "title": "Atlanta Hawks vs. Charlotte Hornets",
+   "date": "2026-11-20",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/atlanta-hawks-vs-charlotte-hornets-atlanta-georgia-11-20-2026/event/0E00650592505247",
+   "type": "sports"
+  },
+  {
+   "venue": "Gas South Arena",
+   "title": "Atlanta Gladiators vs. Indy Fuel",
+   "date": "2026-11-20",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/atlanta-gladiators-vs-indy-fuel-duluth-georgia-11-20-2026/event/0E0064C3DA3B2509",
+   "type": "sports",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-17T00:31:32.868Z",
+    "from": 23
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Gateway Center Arena",
+   "title": "College Park Skyhawks vs. Delaware Blue Coats",
+   "date": "2026-11-20",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/college-park-skyhawks-vs-delaware-blue-college-park-georgia-11-20-2026/event/0E00651BD85C8CBC",
+   "type": "sports",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T00:31:52.974Z",
+    "from": 17.55
+   }
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Waterparks - NIGHT 1",
+   "date": "2026-11-20",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/waterparks-night-1-atlanta-georgia-11-20-2026/event/0E006507B4AB88A0",
+   "type": "concert",
+   "tickets": {
+    "box": 25,
+    "resale": 0,
+    "checked": "2026-11-17T00:31:55.697Z",
+    "from": 39
+   }
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Liim - LE Monde Est À Nous",
+   "date": "2026-11-20",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/liim-le-monde-est-a-nous-atlanta-georgia-11-20-2026/event/0E006531A826BC73",
+   "type": "concert",
+   "tickets": {
+    "box": 206,
+    "resale": 0,
+    "checked": "2026-11-17T00:31:58.139Z",
+    "from": 20
+   }
+  },
+  {
+   "venue": "Fox Theatre",
+   "title": "Death Becomes Her",
+   "date": "2026-11-20",
+   "time": "19:30",
+   "url": "https://www.foxtheatre.org/events/detail/death-becomes-her",
+   "type": "concert"
+  },
+  {
+   "venue": "Tabernacle",
+   "title": "Imminence - Axis Mundi Tour: North America 2026",
+   "date": "2026-11-20",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/imminence-axis-mundi-tour-north-america-atlanta-georgia-11-20-2026/event/0E0064C924C513D1",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T00:32:18.324Z",
+    "from": 42.7
+   }
+  },
+  {
+   "venue": "Variety Playhouse",
+   "title": "Frankly Scarlet & Runaway Gin",
+   "date": "2026-11-20",
+   "time": "20:00",
+   "url": "https://www.axs.com/events/1540237/frankly-scarlet-runaway-gin-tickets",
+   "type": "concert"
+  },
+  {
+   "venue": "Terminal West",
+   "title": "The Bends",
+   "date": "2026-11-20",
+   "time": "20:00",
+   "url": "https://www.axs.com/events/1415250/the-bends-tickets",
+   "type": "concert"
+  },
+  {
+   "venue": "Cobb Energy Centre",
+   "title": "Orchestra Noir Presents The Culture Tour II",
+   "date": "2026-11-20",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/orchestra-noir-presents-the-culture-tour-atlanta-georgia-11-20-2026/event/0E006519AC87A8E9",
+   "type": "arts",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T00:32:38.345Z",
+    "from": 53.53
+   }
+  },
+  {
+   "venue": "Cobb Energy Centre",
+   "title": "Skyline Lounge - Orchestra Noir",
+   "date": "2026-11-20",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/skyline-lounge-orchestra-noir-atlanta-georgia-11-20-2026/event/0E006519AC8DA906",
+   "age21": true,
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-17T00:32:43.972Z"
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "McCamish Pavilion",
+   "title": "Georgia Tech Yellow Jackets Mens Basketball vs. Georgia Bulldogs Mens Basketball",
+   "date": "2026-11-20",
+   "time": "20:00:00",
+   "url": "https://ramblinwreck.com/sports/m-baskbl/schedule/",
+   "type": "sports"
+  },
+  {
+   "venue": "Coca-Cola Roxy",
+   "title": "Jack White Live 2026",
+   "date": "2026-11-20",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/jack-white-live-2026-atlanta-georgia-11-20-2026/event/0E0064879B217D30",
+   "type": "concert",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-17T00:33:04.046Z",
+    "from": 80.73
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Buckhead Theatre",
+   "title": "Guaco",
+   "date": "2026-11-20",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/guaco-atlanta-georgia-11-20-2026/event/0E0064BCE5C839C9",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-11-03T17:39:39.049Z"
+  },
+  {
+   "venue": "Center Stage",
+   "title": "Alyssa Grace",
+   "date": "2026-11-20",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/alyssa-grace-atlanta-georgia-11-20-2026/event/0E006521BF06C1B9",
+   "type": "concert",
+   "tickets": {
+    "box": 0,
+    "resale": 27,
+    "checked": "2026-11-17T00:33:27.140Z",
+    "from": 83
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Vinyl",
+   "title": "Red Leather",
+   "date": "2026-11-20",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/red-leather-atlanta-georgia-11-20-2026/event/0E00646D99CC6B94",
+   "type": "concert",
+   "tickets": {
+    "box": 0,
+    "resale": 20,
+    "checked": "2026-11-17T00:33:29.886Z",
+    "from": 68
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Aisle 5",
+   "title": "L'Rain",
+   "date": "2026-11-20",
+   "time": "20:00:00",
+   "url": "https://www.aisle5atl.com/"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Jazz Night with FRNDS ft. 404 Theory",
+   "date": "2026-11-20",
+   "time": "21:15",
+   "url": "https://eddiesattic.com/event/jazz-night-with-frnds-ft-404-theory/",
+   "type": "concert"
   }
  ]
 }
