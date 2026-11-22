@@ -4629,6 +4629,248 @@
    "time": "21:15",
    "url": "https://eddiesattic.com/event/jazz-night-with-frnds-ft-404-theory/",
    "type": "concert"
+  },
+  {
+   "venue": "Gas South Arena",
+   "title": "Star of Wonder 2026 – (Buford School of Ballet)",
+   "date": "2026-11-21",
+   "time": "10:00",
+   "url": "https://www.gassouthdistrict.com/events/detail/star-of-wonder-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "Bobby Dodd Stadium",
+   "title": "Georgia Tech Yellow Jackets Football vs. Wake Forest Demon Deacons Football",
+   "date": "2026-11-21",
+   "time": "12:00:00",
+   "url": "https://ramblinwreck.com/sports/m-footbl/schedule/",
+   "type": "sports",
+   "watch": {
+    "tv": [
+     "ESPN"
+    ]
+   }
+  },
+  {
+   "venue": "Fox Theatre",
+   "title": "Death Becomes Her",
+   "date": "2026-11-21",
+   "time": "14:00",
+   "url": "https://www.foxtheatre.org/events/detail/death-becomes-her",
+   "type": "concert"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Jon McLaughlin: “Home For The Holidays”",
+   "date": "2026-11-21",
+   "time": "19:00",
+   "url": "https://eddiesattic.com/event/jon-mclaughlin-home-for-the-holidays/",
+   "type": "concert"
+  },
+  {
+   "venue": "Gas South Arena",
+   "title": "Atlanta Gladiators vs. Indy Fuel",
+   "date": "2026-11-21",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/atlanta-gladiators-vs-indy-fuel-duluth-georgia-11-21-2026/event/0E0064C3DA3D251A",
+   "type": "sports"
+  },
+  {
+   "venue": "Tabernacle",
+   "title": "Manchester Orchestra - The Stuffing XVI",
+   "date": "2026-11-21",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/manchester-orchestra-the-stuffing-xvi-atlanta-georgia-11-21-2026/event/0E006513BB91BD98",
+   "type": "concert",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-21T00:44:04.938Z",
+    "from": 107.33
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Waterparks - NIGHT 2",
+   "date": "2026-11-21",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/waterparks-night-2-atlanta-georgia-11-21-2026/event/0E006507B8368D39",
+   "type": "concert",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-21T00:44:09.855Z"
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Center Stage",
+   "title": "Jonathan Van Ness",
+   "date": "2026-11-21",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/jonathan-van-ness-atlanta-georgia-11-21-2026/event/0E006473989C8918",
+   "age21": true,
+   "type": "arts",
+   "status": "cancelled",
+   "statusSince": "2026-11-19T17:39:16.519Z",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T00:59:42.133Z",
+    "from": 47.15
+   }
+  },
+  {
+   "venue": "Variety Playhouse",
+   "title": "An Evening With Big Head Todd and the Monsters",
+   "date": "2026-11-21",
+   "time": "20:00",
+   "url": "https://www.axs.com/events/1074652/an-evening-with-big-head-todd-and-the-monsters-tickets",
+   "type": "concert"
+  },
+  {
+   "venue": "Terminal West",
+   "title": "Know Good Presents: Against All Odds Tour",
+   "date": "2026-11-21",
+   "time": "20:00",
+   "url": "https://www.axs.com/events/1497538/know-good-presents-against-all-odds-tour-tickets",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Torch DNB",
+   "date": "2026-11-21",
+   "time": "20:00",
+   "url": "https://www.masqueradeatlanta.com/events/torch-dnb-14/",
+   "type": "concert"
+  },
+  {
+   "venue": "Center Stage",
+   "title": "Inayah",
+   "date": "2026-11-21",
+   "time": "20:00",
+   "url": "https://www.centerstage-atlanta.com//events//inayah-3//",
+   "type": "concert"
+  },
+  {
+   "venue": "Atlanta Symphony Hall",
+   "title": "Schumann + Bruckner",
+   "date": "2026-11-21",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/schumann-bruckner-atlanta-georgia-11-21-2026/event/0E0064D8A3789792",
+   "type": "arts",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-21T00:44:50.001Z",
+    "from": 64.1
+   }
+  },
+  {
+   "venue": "Cobb Energy Centre",
+   "title": "Skyline Lounge Rock Orchestra",
+   "date": "2026-11-21",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/skyline-lounge-rock-orchestra-atlanta-georgia-11-21-2026/event/0E0064799E9B87F8",
+   "age21": true
+  },
+  {
+   "venue": "Cobb Energy Centre",
+   "title": "The Rock Orchestra",
+   "date": "2026-11-21",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/the-rock-orchestra-atlanta-georgia-11-21-2026/event/0E0064799E9587F0",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-21T00:45:20.220Z",
+    "from": 49.35
+   }
+  },
+  {
+   "venue": "Coca-Cola Roxy",
+   "title": "Jack White Live 2026",
+   "date": "2026-11-21",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/jack-white-live-2026-atlanta-georgia-11-21-2026/event/0E0064879B017CB2",
+   "type": "concert",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-21T00:45:40.343Z",
+    "from": 56.16
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Buckhead Theatre",
+   "title": "The War And Treaty",
+   "date": "2026-11-21",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/the-war-and-treaty-atlanta-georgia-11-21-2026/event/0E0064CACB7E46A6",
+   "type": "concert"
+  },
+  {
+   "venue": "The Loft",
+   "title": "Inayah",
+   "date": "2026-11-21",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/inayah-atlanta-georgia-11-21-2026/event/0E0064E6A05884DA",
+   "type": "concert",
+   "tickets": {
+    "box": 0,
+    "resale": 6,
+    "checked": "2026-11-21T00:46:03.027Z",
+    "from": 42.41
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Aisle 5",
+   "title": "Sicard Hollow",
+   "date": "2026-11-21",
+   "time": "20:00:00",
+   "url": "https://eventim.us/a5sicardhollow2026",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Broadway Rave | 18+",
+   "date": "2026-11-21",
+   "time": "21:00:00",
+   "url": "https://www.ticketmaster.com/broadway-rave-18-atlanta-georgia-11-21-2026/event/0E00651FF7773B85",
+   "type": "concert",
+   "tickets": {
+    "box": 129,
+    "resale": 0,
+    "checked": "2026-11-21T00:46:05.732Z",
+    "from": 18
+   }
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Greylan James",
+   "date": "2026-11-21",
+   "time": "21:15",
+   "url": "https://eddiesattic.com/event/greylan-james/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Ascension: A Goth Industrial Night",
+   "date": "2026-11-21",
+   "time": "22:00",
+   "url": "https://www.masqueradeatlanta.com/events/ascension-a-goth-industrial-night-5/",
+   "type": "concert"
+  },
+  {
+   "venue": "Believe Music Hall",
+   "title": "Capochino (18+ Event)",
+   "date": "2026-11-21",
+   "time": "22:00:00",
+   "url": "https://www.believeatl.com/"
   }
  ]
 }
