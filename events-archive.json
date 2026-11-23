@@ -2776,7 +2776,14 @@
    "date": "2026-11-06",
    "time": "20:00:00",
    "url": "https://www.ticketmaster.com/fetty-wap-nostalgia-tour-atlanta-georgia-11-06-2026/event/0E0064ACD5624485",
-   "type": "concert"
+   "type": "concert",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-23T01:05:45.146Z",
+    "from": 51.28
+   },
+   "soldOut": true
   },
   {
    "venue": "Center Stage",
@@ -4871,6 +4878,183 @@
    "date": "2026-11-21",
    "time": "22:00:00",
    "url": "https://www.believeatl.com/"
+  },
+  {
+   "venue": "Fox Theatre",
+   "title": "Death Becomes Her",
+   "date": "2026-11-22",
+   "time": "13:00",
+   "url": "https://www.foxtheatre.org/events/detail/death-becomes-her",
+   "type": "concert"
+  },
+  {
+   "venue": "Gas South Arena",
+   "title": "Star of Wonder 2026 – (Buford School of Ballet)",
+   "date": "2026-11-22",
+   "time": "14:00",
+   "url": "https://www.gassouthdistrict.com/events/detail/star-of-wonder-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "Gateway Center Arena",
+   "title": "College Park Skyhawks vs. Delaware Blue Coats",
+   "date": "2026-11-22",
+   "time": "14:00:00",
+   "url": "https://www.ticketmaster.com/college-park-skyhawks-vs-delaware-blue-college-park-georgia-11-22-2026/event/0E00651BD8608CC3",
+   "type": "sports",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T01:18:42.796Z",
+    "from": 17.55
+   }
+  },
+  {
+   "venue": "Gas South Arena",
+   "title": "Atlanta Gladiators vs. Indy Fuel",
+   "date": "2026-11-22",
+   "time": "15:00:00",
+   "url": "https://www.ticketmaster.com/atlanta-gladiators-vs-indy-fuel-duluth-georgia-11-22-2026/event/0E0064C3DA40252F",
+   "type": "sports"
+  },
+  {
+   "venue": "State Farm Arena",
+   "title": "Atlanta Hawks vs. Detroit Pistons",
+   "date": "2026-11-22",
+   "time": "15:30:00",
+   "url": "https://www.ticketmaster.com/atlanta-hawks-vs-detroit-pistons-atlanta-georgia-11-22-2026/event/0E0065059254524D",
+   "type": "sports",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-17T01:19:23.090Z",
+    "from": 42.84
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Atlanta Symphony Hall",
+   "title": "Art Space Production Presents Swan Lake: Symphony of Lights",
+   "date": "2026-11-22",
+   "time": "16:00:00",
+   "url": "https://www.ticketmaster.com/art-space-production-presents-swan-lake-atlanta-georgia-11-22-2026/event/0E006496AA70BC28",
+   "type": "arts",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T01:19:43.334Z",
+    "from": 54.7
+   }
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Cousin Curtiss",
+   "date": "2026-11-22",
+   "time": "18:00",
+   "url": "https://eddiesattic.com/event/cousin-curtiss/",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "DragonForce: Inhuman Rampage 20th Anniversary",
+   "date": "2026-11-22",
+   "time": "18:30:00",
+   "url": "https://www.ticketmaster.com/dragonforce-inhuman-rampage-20th-anniversary-atlanta-georgia-11-22-2026/event/0E0064B4BE7BEEC4",
+   "type": "concert",
+   "tickets": {
+    "box": 590,
+    "resale": 0,
+    "checked": "2026-11-17T01:19:46.218Z",
+    "from": 40.5
+   }
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Waterparks - NIGHT 3",
+   "date": "2026-11-22",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/waterparks-night-3-atlanta-georgia-11-22-2026/event/0E006507BA3D8F96",
+   "type": "concert",
+   "tickets": {
+    "box": 134,
+    "resale": 0,
+    "checked": "2026-11-17T01:19:50.555Z",
+    "from": 39
+   }
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Ho99o9 & N8NOFACE - Sincerely___ The Void",
+   "date": "2026-11-22",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/ho99o9-n8noface-sincerely-the-void-atlanta-georgia-11-22-2026/event/0E0064E1E007DC80",
+   "type": "concert",
+   "tickets": {
+    "box": 249,
+    "resale": 0,
+    "checked": "2026-11-17T01:19:54.332Z",
+    "from": 27.5
+   }
+  },
+  {
+   "venue": "Center Stage",
+   "title": "Phillip Phillips",
+   "date": "2026-11-22",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/phillip-phillips-atlanta-georgia-11-22-2026/event/0E0064D195EF8215",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-17T01:20:14.345Z",
+    "from": 24.15
+   }
+  },
+  {
+   "venue": "Vinyl",
+   "title": "Moral",
+   "date": "2026-11-22",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/moral-atlanta-georgia-11-22-2026/event/0E006503CB9BB52F",
+   "type": "concert",
+   "tickets": {
+    "box": 243,
+    "resale": 0,
+    "checked": "2026-11-17T01:20:18.720Z",
+    "from": 15
+   }
+  },
+  {
+   "venue": "Variety Playhouse",
+   "title": "JoJo: The High Road - 20 Years Unplugged",
+   "date": "2026-11-22",
+   "time": "20:00",
+   "url": "https://www.axs.com/events/1608370/jojo-the-high-road-20-years-unplugged-tickets",
+   "type": "concert"
+  },
+  {
+   "venue": "Terminal West",
+   "title": "caroline",
+   "date": "2026-11-22",
+   "time": "20:00",
+   "url": "https://www.axs.com/events/1438110/caroline-tickets",
+   "type": "concert"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Girl Tones",
+   "date": "2026-11-22",
+   "time": "20:00",
+   "url": "https://eddiesattic.com/event/girl-tones/",
+   "type": "concert"
+  },
+  {
+   "venue": "Tabernacle",
+   "title": "Blue October: Foiled 20th Anniversary World Tour",
+   "date": "2026-11-22",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/blue-october-foiled-20th-anniversary-world-atlanta-georgia-11-22-2026/event/0E006470C3E3B192",
+   "type": "concert"
   }
  ]
 }
