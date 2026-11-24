@@ -5055,6 +5055,40 @@
    "time": "20:00:00",
    "url": "https://www.ticketmaster.com/blue-october-foiled-20th-anniversary-world-atlanta-georgia-11-22-2026/event/0E006470C3E3B192",
    "type": "concert"
+  },
+  {
+   "venue": "Cobb Energy Centre",
+   "title": "Black Friday Deals",
+   "date": "2026-11-23",
+   "time": "10:00",
+   "url": "https://www.cobbenergycentre.com/events/detail/black-friday-deals",
+   "type": "arts"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Blitzkid: Modern Hel Tour 2026",
+   "date": "2026-11-23",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/blitzkid-modern-hel-tour-2026-atlanta-georgia-11-23-2026/event/0E0064F0CC46E809",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "ApolloRed1 - Brazy Butterfly Tour",
+   "date": "2026-11-23",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/apollored1-brazy-butterfly-tour-atlanta-georgia-11-23-2026/event/0E006530DF2C8A74",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-10-17T00:16:33.986Z"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Eddie’s Attic Songwriters Open Mic Night",
+   "date": "2026-11-23",
+   "time": "19:30",
+   "url": "https://eddiesattic.com/event/eddies-attic-songwriters-open-mic-night-133/",
+   "type": "concert"
   }
  ]
 }
