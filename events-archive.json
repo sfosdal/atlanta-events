@@ -5089,6 +5089,85 @@
    "time": "19:30",
    "url": "https://eddiesattic.com/event/eddies-attic-songwriters-open-mic-night-133/",
    "type": "concert"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Mike Walton Presents: “A Love Supreme” John Coltrane’s 100th Birthday",
+   "date": "2026-11-24",
+   "time": "19:00",
+   "url": "https://eddiesattic.com/event/mike-walton-presents-a-love-supreme-john-coltranes-100th-birthday-2/",
+   "type": "concert"
+  },
+  {
+   "venue": "Gas South Arena",
+   "title": "Emmanuel Cantata",
+   "date": "2026-11-24",
+   "time": "19:00",
+   "url": "https://www.gassouthdistrict.com/events/detail/emmanuel-cantata-2026",
+   "type": "concert"
+  },
+  {
+   "venue": "McCamish Pavilion",
+   "title": "Georgia Tech Yellow Jackets Mens Basketball vs. Samford Bulldogs Mens Basketball",
+   "date": "2026-11-24",
+   "time": "19:00:00",
+   "url": "https://ramblinwreck.com/sports/m-baskbl/schedule/",
+   "type": "sports"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "ApolloRed1 - Brazy Butterfly Tour NIGHT 2",
+   "date": "2026-11-24",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/apollored1-brazy-butterfly-tour-night-2-atlanta-georgia-11-24-2026/event/0E006530E206929B",
+   "type": "concert",
+   "status": "cancelled",
+   "statusSince": "2026-11-24T17:39:03.960Z"
+  },
+  {
+   "venue": "Tabernacle",
+   "title": "Syd: Beard Tour",
+   "date": "2026-11-24",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/syd-beard-tour-atlanta-georgia-11-24-2026/event/0E00652BADD4C700",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-23T00:32:31.237Z",
+    "from": 58.95
+   }
+  },
+  {
+   "venue": "Coca-Cola Roxy",
+   "title": "Trippie Redd - The Non-disclosure Agreement Tour",
+   "date": "2026-11-24",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/trippie-redd-the-nondisclosure-agreement-tour-atlanta-georgia-11-24-2026/event/0E006531F750BEEB",
+   "type": "concert",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-23T00:32:51.353Z",
+    "from": 152.5
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Smith's Olde Bar",
+   "title": "Deante' Hitchcock",
+   "date": "2026-11-24",
+   "time": "20:00:00",
+   "url": "https://www.ticketweb.com/event/deante-hitchcock-smiths-olde-bar-tickets/14303184",
+   "type": "concert"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Mike Walton Quintet Presents: 100 Years of Miles and Trane",
+   "date": "2026-11-24",
+   "time": "21:00",
+   "url": "https://eddiesattic.com/event/mike-walton-quintet-presents-100-years-of-miles-and-trane/",
+   "type": "concert"
   }
  ]
 }
