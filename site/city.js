@@ -115,7 +115,7 @@
       cssVar: '--v-truist',
       color: '#c086ea',
       url: 'https://www.mlb.com/braves/schedule',
-      icon: 'marks/venues/mlb.com.png',
+      icon: 'marks/venues/braves.png',
       tm: { id: 'KovZpZAtv11A', match: "truist park", fallbackUrl: 'https://www.mlb.com/braves/schedule', exclude: /parking|tour|premium seating/i }, // the postseason's "* Premium Seating *" twins
       alias: /truist park/i,
     },
