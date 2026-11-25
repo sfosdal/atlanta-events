@@ -371,6 +371,7 @@
       url: 'https://www.sobatl.com/',
       icon: 'marks/venues/sobatl.com.png',
       tm: { id: 'KovZpZA1IlFA', match: "olde bar", fallbackUrl: 'https://www.sobatl.com/' },
+      feed: { kind: 'popmenu', secondary: true, chrome: true, url: 'https://www.sobatl.com/', days: 120, rename: [[/^[^:]*?\bpresents?\s+/i, '']] },
       alias: /smith'?s olde bar/i,
     },
     "Eddie's Attic": {
