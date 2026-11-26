@@ -5168,6 +5168,89 @@
    "time": "21:00",
    "url": "https://eddiesattic.com/event/mike-walton-quintet-presents-100-years-of-miles-and-trane/",
    "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Makari & Kurt Travis",
+   "date": "2026-11-25",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/makari-kurt-travis-atlanta-georgia-11-25-2026/event/0E006511C4C1DAC5",
+   "type": "concert"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Buffalo",
+   "date": "2026-11-25",
+   "time": "19:00",
+   "url": "https://eddiesattic.com/event/buffalo/",
+   "type": "concert"
+  },
+  {
+   "venue": "Gas South Arena",
+   "title": "Atlanta Gladiators vs. Savannah Ghost Pirates",
+   "date": "2026-11-25",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/atlanta-gladiators-vs-savannah-ghost-pirates-duluth-georgia-11-25-2026/event/0E0064C3DA432534",
+   "type": "sports"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "The Buzzcocks: Celebrating 50 Years of Buzzcocks",
+   "date": "2026-11-25",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/the-buzzcocks-celebrating-50-years-of-atlanta-georgia-11-25-2026/event/0E0064CFE120DA7D",
+   "type": "concert"
+  },
+  {
+   "venue": "State Farm Arena",
+   "title": "Delta SKY 360 Club Experience - Rush",
+   "date": "2026-11-25",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/delta-sky-360-club-experience-rush-atlanta-georgia-11-25-2026/event/0E00635EAB7482F9",
+   "tickets": {
+    "box": 100,
+    "resale": 0,
+    "checked": "2026-11-23T00:38:49.845Z",
+    "from": 175
+   }
+  },
+  {
+   "venue": "State Farm Arena",
+   "title": "RUSH: Fifty Something",
+   "date": "2026-11-25",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/rush-fifty-something-atlanta-georgia-11-25-2026/event/0E006350D2B1924E",
+   "type": "concert",
+   "tickets": {
+    "box": 698,
+    "resale": 482,
+    "checked": "2026-11-23T00:38:52.440Z",
+    "from": 147.5
+   }
+  },
+  {
+   "venue": "The Eastern",
+   "title": "Angine de Poitrine",
+   "date": "2026-11-25",
+   "time": "20:00",
+   "url": "https://www.axs.com/events/1438094/angine-de-poitrine-tickets",
+   "type": "concert"
+  },
+  {
+   "venue": "Tabernacle",
+   "title": "Belly Gang Kushington: Wtf Goin Tour",
+   "date": "2026-11-25",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/belly-gang-kushington-wtf-goin-tour-atlanta-georgia-11-25-2026/event/0E006556FAF979EA",
+   "type": "concert"
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Buddy Red: ‘Bad News’ EP Release Show",
+   "date": "2026-11-25",
+   "time": "21:00",
+   "url": "https://eddiesattic.com/event/buddy-red-bad-news-ep-release-show/",
+   "type": "concert"
   }
  ]
 }
