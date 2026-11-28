@@ -5251,6 +5251,249 @@
    "time": "21:00",
    "url": "https://eddiesattic.com/event/buddy-red-bad-news-ep-release-show/",
    "type": "concert"
+  },
+  {
+   "venue": "Gas South Arena",
+   "title": "The Nutcracker – (Northeast Atlanta Ballet)",
+   "date": "2026-11-27",
+   "time": "14:00",
+   "url": "https://www.gassouthdistrict.com/events/detail/the-nutcracker-neab-1",
+   "type": "concert"
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Static Dress",
+   "date": "2026-11-27",
+   "time": "18:00:00",
+   "url": "https://www.ticketmaster.com/static-dress-atlanta-georgia-11-27-2026/event/0E006504C362AE1C",
+   "type": "concert",
+   "tickets": {
+    "box": 179,
+    "resale": 0,
+    "checked": "2026-11-23T00:48:29.295Z",
+    "from": 25
+   }
+  },
+  {
+   "venue": "Eddie's Attic",
+   "title": "Eddie’s Attic 59th Bi-Annual Open Mic Shootout",
+   "date": "2026-11-27",
+   "time": "19:00",
+   "url": "https://eddiesattic.com/event/eddies-attic-59th-bi-annual-open-mic-shootout/",
+   "type": "concert"
+  },
+  {
+   "venue": "Smith's Olde Bar",
+   "title": "Global Ringo with Pepper Davis",
+   "date": "2026-11-27",
+   "time": "19:00",
+   "url": "https://app.opendate.io/e/global-ringo-november-27-2026-715783",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Smith's Olde Bar",
+   "title": "The Bloody Hells with Catfight!",
+   "date": "2026-11-27",
+   "time": "19:00",
+   "url": "https://app.opendate.io/e/the-bloody-hells-november-27-2026-745112",
+   "end": "23:00",
+   "type": "concert"
+  },
+  {
+   "venue": "Gas South Arena",
+   "title": "For KING + COUNTRY's 'A Drummer Boy Christmas'",
+   "date": "2026-11-27",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/for-king-countrys-a-drummer-boy-duluth-georgia-11-27-2026/event/0E0064E8999D8428",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-19T21:08:57.768Z",
+    "from": 42.6
+   }
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "Bible Belt Massacre",
+   "date": "2026-11-27",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/bible-belt-massacre-atlanta-georgia-11-27-2026/event/0E00655DE6311DEC",
+   "type": "concert",
+   "tickets": {
+    "box": 281,
+    "resale": 0,
+    "checked": "2026-11-23T00:48:51.876Z",
+    "from": 15
+   }
+  },
+  {
+   "venue": "The Masquerade",
+   "title": "6Lack Friday ",
+   "date": "2026-11-27",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/6lack-friday-atlanta-georgia-11-27-2026/event/0E00654FDB245A11",
+   "type": "concert",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-23T00:48:57.207Z"
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Vinyl",
+   "title": "Kwesi Arthur",
+   "date": "2026-11-27",
+   "time": "19:00:00",
+   "url": "https://www.ticketmaster.com/kwesi-arthur-atlanta-georgia-11-27-2026/event/0E0064CCB332F27D",
+   "type": "concert",
+   "tickets": {
+    "box": 214,
+    "resale": 0,
+    "checked": "2026-11-23T00:48:59.708Z",
+    "from": 31
+   }
+  },
+  {
+   "venue": "State Farm Arena",
+   "title": "Delta SKY 360 Club Experience - Rush",
+   "date": "2026-11-27",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/delta-sky-360-club-experience-rush-atlanta-georgia-11-27-2026/event/0E00635EAB7682FB",
+   "tickets": {
+    "box": 109,
+    "resale": 0,
+    "checked": "2026-11-23T00:49:02.968Z",
+    "from": 200
+   }
+  },
+  {
+   "venue": "State Farm Arena",
+   "title": "RUSH: Fifty Something",
+   "date": "2026-11-27",
+   "time": "19:30:00",
+   "url": "https://www.ticketmaster.com/rush-fifty-something-atlanta-georgia-11-27-2026/event/0E00635692B0686C",
+   "age21": true,
+   "type": "concert",
+   "tickets": {
+    "box": 464,
+    "resale": 283,
+    "checked": "2026-11-23T00:49:06.148Z",
+    "from": 147.5
+   }
+  },
+  {
+   "venue": "The Eastern",
+   "title": "Futurebirds",
+   "date": "2026-11-27",
+   "time": "20:00",
+   "url": "https://www.axs.com/events/1575286/futurebirds-tickets",
+   "type": "concert"
+  },
+  {
+   "venue": "Terminal West",
+   "title": "A Hundred Drums & Zen Selekta",
+   "date": "2026-11-27",
+   "time": "20:00",
+   "url": "https://www.axs.com/events/1471940/a-hundred-drums-zen-selekta-tickets",
+   "type": "concert"
+  },
+  {
+   "venue": "Fox Theatre",
+   "title": "Stray Cats",
+   "date": "2026-11-27",
+   "time": "20:00:00",
+   "url": "https://www.foxtheatre.org/",
+   "type": "concert"
+  },
+  {
+   "venue": "Cobb Energy Centre",
+   "title": "Skyline Lounge Love Actually",
+   "date": "2026-11-27",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/skyline-lounge-love-actually-atlanta-georgia-11-27-2026/event/0E0064EFA0BB8172",
+   "age21": true,
+   "tickets": {
+    "box": 8,
+    "resale": 0,
+    "checked": "2026-11-23T00:49:08.824Z",
+    "from": 55
+   }
+  },
+  {
+   "venue": "Cobb Energy Centre",
+   "title": "Love Actually In Concert",
+   "date": "2026-11-27",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/love-actually-in-concert-atlanta-georgia-11-27-2026/event/0E0064EFA0A68140",
+   "type": "movie",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-23T00:49:29.070Z",
+    "from": 62.15
+   }
+  },
+  {
+   "venue": "Tabernacle",
+   "title": "Blackberry Smoke: Holiday Homecoming",
+   "date": "2026-11-27",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/blackberry-smoke-holiday-homecoming-atlanta-georgia-11-27-2026/event/0E0064C90EBCD5D3",
+   "type": "concert",
+   "tickets": {
+    "box": null,
+    "resale": 0,
+    "checked": "2026-11-23T00:49:49.153Z",
+    "from": 53.66
+   }
+  },
+  {
+   "venue": "Coca-Cola Roxy",
+   "title": "Hunxho 2Night Only Tour",
+   "date": "2026-11-27",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/hunxho-2night-only-tour-atlanta-georgia-11-27-2026/event/0E006536C233BBAE",
+   "type": "concert",
+   "tickets": {
+    "box": 0,
+    "resale": 0,
+    "checked": "2026-11-23T00:50:09.360Z",
+    "from": 187.99
+   },
+   "soldOut": true
+  },
+  {
+   "venue": "Buckhead Theatre",
+   "title": "Elías Medina",
+   "date": "2026-11-27",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/elias-medina-atlanta-georgia-11-27-2026/event/0E00654D0058F25E",
+   "type": "concert"
+  },
+  {
+   "venue": "Center Stage",
+   "title": "Premo Rice - Another Night At The Chateau",
+   "date": "2026-11-27",
+   "time": "20:00:00",
+   "url": "https://www.ticketmaster.com/premo-rice-another-night-at-the-atlanta-georgia-11-27-2026/event/0E00652FAC964A96",
+   "type": "concert",
+   "tickets": {
+    "box": 686,
+    "resale": 0,
+    "checked": "2026-11-23T00:50:32.320Z",
+    "from": 37
+   }
+  },
+  {
+   "venue": "Variety Playhouse",
+   "title": "The SteelDrivers",
+   "date": "2026-11-27",
+   "time": "20:00:00",
+   "url": "http://www.variety-playhouse.com",
+   "type": "concert"
   }
  ]
 }
